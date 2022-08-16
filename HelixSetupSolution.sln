@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{BFB14EBF-9195-4212-BE33-BA7B9E07D1E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{56A51E11-86D1-48F4-8751-196096B8D63B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{5E80DF64-CBF8-4D60-B36B-053BF5D520BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StandBlog", "StandBlog", "{D2171B3E-41AA-4BA8-9F57-A1D862098430}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D2171B3E-41AA-4BA8-9F57-A1D862098430} = {56A51E11-86D1-48F4-8751-196096B8D63B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FDE6175-1207-4846-BD50-DDEF418FC7F4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,235 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog.yml
+ID: "bbc87cfa-9174-4daa-9331-1a2ad4f149f5"
+Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/StandBlog
+Signature: 4kVvWEGT0a+b8anwE13HH2Tz/p/mkvMLuMjigvy2bXw=
+Modified: 637963154429339927
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Home.yml
+ID: "001f7417-417d-4ba6-b741-0ddd2fedaa1b"
+Parent: "bbc87cfa-9174-4daa-9331-1a2ad4f149f5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/StandBlog/Home
+Signature: +i0GDHhm6lwpHqm1z9rxPwRf/T0/8Wu08tbX4BEHXbU=
+Modified: 637963154429358029
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Page Design Folder.yml
+ID: "a19a02bf-2aae-428b-9eb4-80548308b4c6"
+Parent: "bbc87cfa-9174-4daa-9331-1a2ad4f149f5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/StandBlog/Page Design Folder
+Signature: cNI21fguCax6+4Zke72UtsMB54yTuyHa8YlsMzK+Qaw=
+Modified: 637963154429390283
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Page Design.yml
+ID: "ef9847c5-db6f-4c5b-9728-4478efd372ae"
+Parent: "bbc87cfa-9174-4daa-9331-1a2ad4f149f5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/StandBlog/Page Design
+Signature: linw/FpmiF0NQwq4kKEfUdZM/T/iLPSZ1HfA9s/OkJ4=
+Modified: 637963154429378159
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Page Designs.yml
+ID: "934a189b-7a3a-43d0-8d78-c8a03fb082ff"
+Parent: "bbc87cfa-9174-4daa-9331-1a2ad4f149f5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/StandBlog/Page Designs
+Signature: kf2HVRo2eznmwo+OCSfqJUuXkamcTwGSnP1ettSzWxQ=
+Modified: 637963154429401724
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Page.yml
+ID: "ef0dbd73-93b6-4f2d-959f-6fd78f6c9de9"
+Parent: "bbc87cfa-9174-4daa-9331-1a2ad4f149f5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/StandBlog/Page
+Signature: hVpUun3bA90sJY6PeLy2X9nKXvHvBaKwL3GjHwg7Y9s=
+Modified: 637963154429368221
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Partial Design Folder.yml
+ID: "d47a336d-7ddd-4d68-a04b-fc7dd634c55d"
+Parent: "bbc87cfa-9174-4daa-9331-1a2ad4f149f5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/StandBlog/Partial Design Folder
+Signature: 7ehasptWCcmbQBsaFl/QStf7QAc2x29+UXB0OPn7aqI=
+Modified: 637963154429420892
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Partial Design.yml
+ID: "71c46788-d8b8-4493-b3c3-947181c7032d"
+Parent: "bbc87cfa-9174-4daa-9331-1a2ad4f149f5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/StandBlog/Partial Design
+Signature: MzynuIo5zY4z5cOUag77xkiykgI5Z22ZeLGWPgP1IA4=
+Modified: 637963154429410781
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Partial Designs.yml
+ID: "7dadc30c-e9f5-4e33-a6c0-beab5e17a237"
+Parent: "bbc87cfa-9174-4daa-9331-1a2ad4f149f5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/StandBlog/Partial Designs
+Signature: 2Ivi9LmJ27AbIdHAlYnGozbYZiZSlT1U/olfSc+6dE0=
+Modified: 637963154429420892
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Settings.yml
+ID: "d106e601-c5f7-488b-b73a-fa7d5894e401"
+Parent: "bbc87cfa-9174-4daa-9331-1a2ad4f149f5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/StandBlog/Settings
+Signature: S18NolnUfT7TtKmR/LwuvmGWEzMgHBrKV8xdszaECjk=
+Modified: 637963154429430889
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Site.yml
+ID: "4abfb7e7-0ccf-4308-83a2-7db4953e3085"
+Parent: "bbc87cfa-9174-4daa-9331-1a2ad4f149f5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/StandBlog/Site
+Signature: FwWR0arG0EiKRT+qmspHn4i3KOo+dnuYPkiG1rQ7asM=
+Modified: 637963154429444873
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Tenant.yml
+ID: "2e5795b5-2887-4bf1-bf00-72f43cfaeb06"
+Parent: "bbc87cfa-9174-4daa-9331-1a2ad4f149f5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/StandBlog/Tenant
+Signature: RrtheDjsB8iFkV6cLnr9DlKKqYij8ZxC/T/Rq5W1Eg0=
+Modified: 637963154429444873
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Home\__Standard Values.yml
+ID: "3b3e0c31-a47c-43df-83c5-e371d27c2f43"
+Parent: "001f7417-417d-4ba6-b741-0ddd2fedaa1b"
+Template: "001f7417-417d-4ba6-b741-0ddd2fedaa1b"
+Path: /sitecore/templates/Project/StandBlog/Home/__Standard Values
+Signature: /0+/i0K1p/Kpg/X8GFLKU+X0VcANSHByjYfNiomlCJQ=
+Modified: 637963154429484991
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Page\Content.yml
+ID: "ae34bc9a-8dbb-4bd6-acbe-6a1cfecc1ccb"
+Parent: "ef0dbd73-93b6-4f2d-959f-6fd78f6c9de9"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/StandBlog/Page/Content
+Signature: 0Q/1vfZvzs+yGf+qKmXqNsd+zhbEPM5ImjmygAaX3vk=
+Modified: 637963154429455016
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Page\__Standard Values.yml
+ID: "73acc404-817a-43b3-8869-7e57f0362b94"
+Parent: "ef0dbd73-93b6-4f2d-959f-6fd78f6c9de9"
+Template: "ef0dbd73-93b6-4f2d-959f-6fd78f6c9de9"
+Path: /sitecore/templates/Project/StandBlog/Page/__Standard Values
+Signature: jVMzuV8UVpU1rF158ZVpq779DJi/gxOsd81DbFfo4ns=
+Modified: 637963154429484991
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Page Design\__Standard Values.yml
+ID: "de61adc7-8c9e-4b1e-bcab-9f4a114fbc91"
+Parent: "ef9847c5-db6f-4c5b-9728-4478efd372ae"
+Template: "ef9847c5-db6f-4c5b-9728-4478efd372ae"
+Path: /sitecore/templates/Project/StandBlog/Page Design/__Standard Values
+Signature: twAKiH5+5syKHvxzrJ2GvB45UdNdzAGgy/yFc9poPi8=
+Modified: 637963154429495838
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Page Design Folder\__Standard Values.yml
+ID: "0cd8bf50-028d-4a2c-b14e-397fb23438a0"
+Parent: "a19a02bf-2aae-428b-9eb4-80548308b4c6"
+Template: "a19a02bf-2aae-428b-9eb4-80548308b4c6"
+Path: /sitecore/templates/Project/StandBlog/Page Design Folder/__Standard Values
+Signature: ImqyXipELB0XY39sByFcxpY8kLjV83DEMV5pw8VKwoE=
+Modified: 637963154429504987
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Page Designs\__Standard Values.yml
+ID: "9755f192-f9d5-47fb-a1f9-b84ff75b38be"
+Parent: "934a189b-7a3a-43d0-8d78-c8a03fb082ff"
+Template: "934a189b-7a3a-43d0-8d78-c8a03fb082ff"
+Path: /sitecore/templates/Project/StandBlog/Page Designs/__Standard Values
+Signature: ZmlbJNJFNbx5A3GBU1jtSedxqBC5svykaYARQcTYSAY=
+Modified: 637963154429513862
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Partial Design\__Standard Values.yml
+ID: "02b43071-ad26-4e51-990b-22a307c9e13d"
+Parent: "71c46788-d8b8-4493-b3c3-947181c7032d"
+Template: "71c46788-d8b8-4493-b3c3-947181c7032d"
+Path: /sitecore/templates/Project/StandBlog/Partial Design/__Standard Values
+Signature: Dt05Kq4bwm4QgmKjO0hluCztlN1gORSeC+S5Dv2rH4g=
+Modified: 637963154429524003
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Partial Design Folder\__Standard Values.yml
+ID: "189f2abe-67a2-4910-88db-34dc113a868f"
+Parent: "d47a336d-7ddd-4d68-a04b-fc7dd634c55d"
+Template: "d47a336d-7ddd-4d68-a04b-fc7dd634c55d"
+Path: /sitecore/templates/Project/StandBlog/Partial Design Folder/__Standard Values
+Signature: BHSbDXH7uD2Iz2AJTl2d2N/jHmkBBbuvZYKoGUrzQJg=
+Modified: 637963154429534000
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Partial Designs\__Standard Values.yml
+ID: "74e06af8-8be7-4244-9187-018c43e43f11"
+Parent: "7dadc30c-e9f5-4e33-a6c0-beab5e17a237"
+Template: "7dadc30c-e9f5-4e33-a6c0-beab5e17a237"
+Path: /sitecore/templates/Project/StandBlog/Partial Designs/__Standard Values
+Signature: eSTWbIRWbOWazNg39iHWsRrCCXQFuOQRNXINNTUP724=
+Modified: 637963154429544013
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Settings\__Standard Values.yml
+ID: "9d7b848e-716d-4e2a-8969-0923fb960818"
+Parent: "d106e601-c5f7-488b-b73a-fa7d5894e401"
+Template: "d106e601-c5f7-488b-b73a-fa7d5894e401"
+Path: /sitecore/templates/Project/StandBlog/Settings/__Standard Values
+Signature: aL09EDwY9/qWdxGzhIATh7Yor90zX2SZzk3u3qMoXT4=
+Modified: 637963154429554010
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Site\__Standard Values.yml
+ID: "cdfb0103-0c14-45ba-9509-58de9a8180f7"
+Parent: "4abfb7e7-0ccf-4308-83a2-7db4953e3085"
+Template: "4abfb7e7-0ccf-4308-83a2-7db4953e3085"
+Path: /sitecore/templates/Project/StandBlog/Site/__Standard Values
+Signature: 1MtRrOu3qJA8G7GCiwICX87/t7q+WqfrrzZyawov6do=
+Modified: 637963154429554010
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Tenant\__Standard Values.yml
+ID: "1499ea01-fa86-4316-9955-0dfa6bb99956"
+Parent: "2e5795b5-2887-4bf1-bf00-72f43cfaeb06"
+Template: "2e5795b5-2887-4bf1-bf00-72f43cfaeb06"
+Path: /sitecore/templates/Project/StandBlog/Tenant/__Standard Values
+Signature: 2pBMi16E3Lji0vh4tE4WFW8/1UJyjPNT9HYTFBDxdNo=
+Modified: 637963154429564710
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Page\Content\Content.yml
+ID: "033bb283-f857-45d8-b932-27dc5c757b32"
+Parent: "ae34bc9a-8dbb-4bd6-acbe-6a1cfecc1ccb"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/StandBlog/Page/Content/Content
+Signature: lV2speT6hWI4romKciGfj4Temtfd84RmqW4YNf4xBb4=
+Modified: 637963154429475011
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Project\StandBlog\Page\Content\Title.yml
+ID: "c1e7056a-7737-4923-9df8-1b8f2dceea6c"
+Parent: "ae34bc9a-8dbb-4bd6-acbe-6a1cfecc1ccb"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/StandBlog/Page/Content/Title
+Signature: Oh5KFzYPt1Yl2nOuGOGRmsyPX8oNAyfF0QRaQb8Jefs=
+Modified: 637963154429465021

@@ -1,0 +1,27 @@
+﻿---
+ID: "108f0870-e3af-49df-a6cb-700ca80611e7"
+Parent: "0aab3d20-cb30-4619-9868-080b46c8c6ef"
+Template: "70461699-48e4-45fa-b74b-0cce849fca6a"
+Path: /sitecore/content/StandBlog/StandBlog/Settings/Maps Provider
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220816T095903Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "abef134d-d23d-452b-99ff-3768c423ef39"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220816T095903Z

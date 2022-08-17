@@ -1,0 +1,31 @@
+﻿---
+ID: "14dce069-b10b-4211-9b95-9d186fcaec17"
+Parent: "fa80f8d3-2a25-4836-8b59-1d4e535db8c4"
+Template: "df608f99-aaa5-428d-a4ef-ca92e5f291d3"
+Path: /sitecore/content/StandBlog/StandBlog/Data/Flashes
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220816T095909Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0e2d931-4dfd-4e15-9579-5f50440c55c3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220816T095909Z

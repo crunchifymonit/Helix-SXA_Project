@@ -1,0 +1,31 @@
+﻿---
+ID: "f8c3e220-5fc5-4d01-bbdf-9ca100de6734"
+Parent: "fa80f8d3-2a25-4836-8b59-1d4e535db8c4"
+Template: "ad8537df-06bb-4dd3-b044-0cd5c181a219"
+Path: /sitecore/content/StandBlog/StandBlog/Data/Links
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220816T095918Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "82199039-ea1f-478e-a81b-370fdaabeb76"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220816T095918Z

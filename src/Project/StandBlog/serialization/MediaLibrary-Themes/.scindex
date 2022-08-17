@@ -1,0 +1,2548 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\fonts\FontAwesome.yml
+ID: "e7f52be0-667d-43ab-b11d-c059c4d9e26a"
+Parent: "c4f3ea74-f2e4-4500-b259-dba824cd7b52"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/fonts/FontAwesome
+Signature: 1PZ4MEIwpFXI/EIQIFDUq6L6/w+vunEhbP901iAkLBs=
+Modified: 637963154434125127
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ao.yml
+ID: "b32d8770-eb34-45e8-bb5e-a7b532e6644a"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ao
+Signature: /8KzsoqoO1g4i68+zXHXPgM625NFU6W890aC+Slrdno=
+Modified: 637963154434801684
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog.yml
+ID: "205a5ba3-5807-420d-b12c-1621c9d89314"
+Parent: "7a9d3dd9-2ba3-4f73-8f81-37bee5629b9e"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog
+Signature: GlnYcNqEko5h2mYVqK8b/N6DSsSsS6PRZ2pSHJa+/X0=
+Modified: 637963154433263229
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name.yml
+ID: "7650efa8-7120-4ab0-bcca-2e73e3dfe0bc"
+Parent: "205a5ba3-5807-420d-b12c-1621c9d89314"
+Template: "f7653f31-6f17-4daa-9217-8e116babc927"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name
+Signature: bKbT1SzVuoFfL9fDRjtDkjlp+FZ/mFeml1ISB0SHVNk=
+Modified: 637963154433951305
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\arrow-right.yml
+ID: "e32ae453-1b90-47fb-b437-47f866f12409"
+Parent: "08799409-2f95-4294-8336-85f467dbf193"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/arrow-right"
+Signature: YVEWXsSODnYLjXntSW3WADq8r6g+kxv0UztLW0SCF6M=
+Modified: 637963154434157677
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\as.yml
+ID: "3d0a2a2a-9a5f-4576-97ba-79415f369da9"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/as
+Signature: yAShJh80DoLQpaxY/XLadYTD4fxzTBd+jfuvZeCeJAk=
+Modified: 637963154434826279
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\gulp.yml
+ID: "999b9f11-4a89-419c-abd5-58303e1c2dcc"
+Parent: "7650efa8-7120-4ab0-bcca-2e73e3dfe0bc"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/gulp
+Signature: Q9764me/slVDYNoZUI8+64+lrc88IPHn37QEFai4iOs=
+Modified: 637963154433969692
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\readme.yml
+ID: "18b3d90d-2e7b-4619-a570-374c1e662495"
+Parent: "7650efa8-7120-4ab0-bcca-2e73e3dfe0bc"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/readme
+Signature: Te+nT1qa+sXcmKZaT+Zu7LzmgGb7tukDulM+jQ3ovDI=
+Modified: 637963154434058789
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\radiobox.yml
+ID: "5ff30669-557a-47db-b9ae-4acadb78ebe2"
+Parent: "08799409-2f95-4294-8336-85f467dbf193"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/radiobox
+Signature: i15Tq5fxzBJcQDE3ybg4RrvJNPjwKF1BXt+nC8YnGf0=
+Modified: 637963154434229433
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\be.yml
+ID: "9bb6cec7-81c7-4d95-811a-7b59e3efb23f"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/be
+Signature: zg2mfZ7zbT2nHcag5wP5y7BTGNQk6lIvzgnaUDnUag8=
+Modified: 637963154434916868
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\styles.yml
+ID: "89c6c04d-0699-41be-b9bf-696aab81f1d7"
+Parent: "7650efa8-7120-4ab0-bcca-2e73e3dfe0bc"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/styles
+Signature: PcrEcgzyuEW7zYSqBjIvdU8YjvWGe+g+d0A4F4KsAIg=
+Modified: 637963154434008364
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\arrow-left.yml
+ID: "ee29a747-9470-4e4d-bbe6-7c64fa224aed"
+Parent: "08799409-2f95-4294-8336-85f467dbf193"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/arrow-left"
+Signature: fvpN1XfoDXWix756dacyUu3De0ZNTWAlFXbmNpyg4AA=
+Modified: 637963154434152033
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\fonts\FontAwesome\fontawesome-webfont-ttf.yml
+ID: "ef0905fa-8df4-4a8d-83a8-27d5a01427b7"
+Parent: "e7f52be0-667d-43ab-b11d-c059c4d9e26a"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/fonts/FontAwesome/fontawesome-webfont-ttf"
+Signature: xvLKRQUk402c08uoCsTYovqbuqCW5vQ8HSjf+GfebBM=
+Modified: 637963154434520620
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bg.yml
+ID: "dcbb9361-c69f-45ba-9afd-0a918f5e7baa"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bg
+Signature: 3T0GTxISZIAbIidN+uvjEthOmVhiDcMRdhBT6ODD1W0=
+Modified: 637963154434935489
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\gulp\serverConfig.yml
+ID: "3eabf331-9218-4500-ba80-2e2bc272375a"
+Parent: "999b9f11-4a89-419c-abd5-58303e1c2dcc"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/gulp/serverConfig
+Signature: frd/Y7dlP1xAHdXZ293CqLnDsRPM+Zig9ZIb8r4uiPA=
+Modified: 637963154434114675
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\sprite-flag.yml
+ID: "4033773a-a898-4f6e-abca-4124b813e7bd"
+Parent: "08799409-2f95-4294-8336-85f467dbf193"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/sprite-flag"
+Signature: pYg4ZfBhEMWUakKnmPnH2Y0gNelAD4/o8SW+zJrVdbo=
+Modified: 637963154434277172
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\fonts\OpenSans\opensans-light.yml
+ID: "a478b63a-bb03-400e-a3e1-8443ba76efba"
+Parent: "38d4425b-ac1a-4a46-a223-eedb2903bf42"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/fonts/OpenSans/opensans-light"
+Signature: +niggJoCYgbGRGT94z8dionkRfXRLHjUJ+A8UWXBHoc=
+Modified: 637963154434671270
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ck.yml
+ID: "dc3817af-2bf5-41bb-949b-ca3869d38d53"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ck
+Signature: YGREQlatXH4n2GhknnbntOJpoZV6cTwzEkyrtJX1CM8=
+Modified: 637963154435187085
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\overlay-bg.yml
+ID: "134ecdef-f7ae-4774-92ca-4e376dc83bc2"
+Parent: "08799409-2f95-4294-8336-85f467dbf193"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/overlay-bg"
+Signature: N7orMW1C5UjQYOytkdnmpVRReW4YWE7D1hlMHSghyk4=
+Modified: 637963154434166898
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\fonts\FontAwesome\fontawesome-webfont-svg.yml
+ID: "d51f9bfe-2cc7-4473-86f4-a7458b477322"
+Parent: "e7f52be0-667d-43ab-b11d-c059c4d9e26a"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/fonts/FontAwesome/fontawesome-webfont-svg"
+Signature: tVKiVE86FQNIR5UXcVqKRGFTIavFnZoYRReKT4VILtI=
+Modified: 637963154434484326
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ai.yml
+ID: "84f30d1d-6030-4db9-bb3f-6b5d28a8496d"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ai
+Signature: lY8rJlTEkibEwRSHqhUTmH9yHvp3JtIGagv+eCGQYtc=
+Modified: 637963154434767840
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\eh.yml
+ID: "85257bb9-9ca1-43c4-934b-22f92eab5506"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/eh
+Signature: RlZPojyPwzUhcSP3GWv1h2aJ+vOvq74pWmO2DIL+ibw=
+Modified: 637963154435367414
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\styles\pre-optimized-min.yml
+ID: "a69a5a7f-4ada-472f-b60f-2f135bc8a113"
+Parent: "89c6c04d-0699-41be-b9bf-696aab81f1d7"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/styles/pre-optimized-min"
+Signature: lOz0y1Dwn7hDi6wEV89qMyMYf7JvDEbqVI/ITwMJIX0=
+Modified: 637963154434353563
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\fonts\OpenSans\opensans-semibold.yml
+ID: "2aa2bdd2-3a04-4d16-bbb4-e2afe52bd925"
+Parent: "38d4425b-ac1a-4a46-a223-eedb2903bf42"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/fonts/OpenSans/opensans-semibold"
+Signature: lJ6zrPPo5PVZ6oxPNTQVHbX1ltVw34JeaSFeIBZRVbs=
+Modified: 637963154434703998
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bs.yml
+ID: "7c1536f3-25d2-4641-badf-014d63f97668"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bs
+Signature: KJh/AxwzXdmZiUofpZFPZz5RTFEMiNFZRTXVgzszpAg=
+Modified: 637963154435080557
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\fm.yml
+ID: "2c01394b-eb0d-4f0d-93a4-1064fead3121"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/fm
+Signature: DkzFtBkD18tunP8uggiGxk6oZ6r9ZShj3OGVxNzEjzM=
+Modified: 637963154435428720
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\fonts\FontAwesome\fontawesome-webfont-woff.yml
+ID: "4ca660ba-dd1f-4768-9047-11cb46d9c3f2"
+Parent: "e7f52be0-667d-43ab-b11d-c059c4d9e26a"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/fonts/FontAwesome/fontawesome-webfont-woff"
+Signature: Dl0P5qI25ejReE1lNhBuda3rBaHrQ5DIQEizmOjCwyU=
+Modified: 637963154434553677
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ae.yml
+ID: "e13bda44-efdd-4462-9389-7d2a32edc0f4"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ae
+Signature: UkyQAknBruQQ3lUWTZVUd45yvOkHB1Vfm5khnEMaUQQ=
+Modified: 637963154434741800
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bv.yml
+ID: "68ce8522-c662-4156-8632-f46a50228315"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bv
+Signature: FJJXXX7u6lY0H/++NkzEkCsgqfj2rEmeZdOTM2fB43M=
+Modified: 637963154435090580
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ga.yml
+ID: "48cbc8b4-679a-410d-ade8-14cad81f7c6e"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ga
+Signature: UfuLkdjr9aSRUMArhhRT5vBsw3jPztpLiziE4mqDhPc=
+Modified: 637963154435448723
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\fonts\OpenSans\opensans-bold.yml
+ID: "3fd0f60d-55b4-4476-a122-c7572e1d712c"
+Parent: "38d4425b-ac1a-4a46-a223-eedb2903bf42"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/fonts/OpenSans/opensans-bold"
+Signature: 1tnEokTM1vQouqxUVAzqoSx0CecgEb6nrHRqbfDuDl0=
+Modified: 637963154434645780
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\aq.yml
+ID: "583775a2-6fa9-4ac4-a670-2e5734b087f1"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/aq
+Signature: l0TBXc7l3PabE5f5XbonqmtnW2XqZwI6xVtERblJNHg=
+Modified: 637963154434813222
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ch.yml
+ID: "af986092-2325-412f-8bb6-b19278402528"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ch
+Signature: 6VzUrfvKeL2dZHqYv5WsBWxPYYVrosZDcD0Iw3T5jZc=
+Modified: 637963154435166098
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mo.yml
+ID: "93059083-64d6-444d-aab5-b968080883b8"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mo
+Signature: wy4sLllXrdP3PtmD+ZwOWbb4TIKPmh6QeAlnoY+ps90=
+Modified: 637963154436030921
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\af.yml
+ID: "ed146cc5-713d-48a8-805c-2656bcfac3c0"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/af
+Signature: 33PhpjHWGc2fDjkwf6fTrEAN3Wz/SZMA4KFzwx1DCjI=
+Modified: 637963154434752145
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\at.yml
+ID: "4d281001-1ca4-48b1-b3c5-ee1925c6033e"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/at
+Signature: J6+I70JYylVslkOUqbryu9Z1KL9tO7XaGRs/bGu1TWk=
+Modified: 637963154434840606
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ci.yml
+ID: "e2b6cd72-49a0-45d9-ba4b-b6855a0d69d5"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ci
+Signature: y9i/kxiW5pz4DPYtORQq7ycEzBv7AFuxc4otDUnSh/o=
+Modified: 637963154435178144
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mp.yml
+ID: "9c74c957-b8f1-4dad-9b4a-7139d493a0c7"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mp
+Signature: nOjpI6VRmN49G8rbHSznfTR3qDMkdOJ1CABNKMJktW4=
+Modified: 637963154436040900
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ag.yml
+ID: "7e173f99-0ec0-4af9-b0d0-0414d0fc619c"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ag
+Signature: oVpHUBpT0fGHUhBPMxwaretsY6p2NYCVY6Ib+1aBqOU=
+Modified: 637963154434757772
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\au.yml
+ID: "4d156424-e8b7-4ad5-9e28-5ffd466f3503"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/au
+Signature: r/onUlMXyeW6MCWeDm2WJycTeSdtR0ZIX+YbqRlxxJM=
+Modified: 637963154434852667
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\dj.yml
+ID: "84c8bdc3-be2c-43b5-b2b7-20b0f19dd97b"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/dj
+Signature: Mz20foL5ADSIjs/aZXxmfCR0560m6AltJrLqTPd8vzM=
+Modified: 637963154435300988
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\my.yml
+ID: "e45ab733-d2b8-480a-b532-f3a1e8fa4736"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/my
+Signature: GXAxs/XkyfXmgwYxEztOvkhfJ6ccrhP2A86FVGkgOxA=
+Modified: 637963154436101497
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\az.yml
+ID: "62d578c2-e143-424a-8ff4-aa3c1bb281bc"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/az
+Signature: BuH6AuTJHKr9JgAzEWaNr1SqQDagFpYSLJJRLVEAmz8=
+Modified: 637963154434880423
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bh.yml
+ID: "6cc5bce6-de32-46d3-b66d-ce3da264d6dd"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bh
+Signature: a2hjTEQUwPH6Vv945CmMs6eXhgW9f0KnnjtnkaJNTYw=
+Modified: 637963154434945464
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\dk.yml
+ID: "d8aa6b14-4317-4214-b057-1a9b81ab7228"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/dk
+Signature: uAwowwsswG14xsn7D2JGF3sHzF2NHG4pBZfhVt2ZfpM=
+Modified: 637963154435319214
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mz.yml
+ID: "f659a2e1-e3da-4e58-9a08-cb9961919946"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mz
+Signature: 8mo/wCtt+njkYLI84rKxkLF0DFg1DwtVNNTFjozpZX0=
+Modified: 637963154436111479
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ba.yml
+ID: "23fc6b63-3ca2-4bfb-beba-4b13ba63e478"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ba
+Signature: nsdT9ZTHmF/BWTMCgRFVCRDVhAlRTk2wBzrigUBZ3LY=
+Modified: 637963154434886734
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bi.yml
+ID: "86d8b0e5-9775-4d31-ab9c-94b5a48d4e86"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bi
+Signature: CEhgWkJ5kCQ0jCVJsYqGjQGSn1ci6AZwKgx8xO7nqOk=
+Modified: 637963154435009696
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gl.yml
+ID: "6a9ecf73-455c-49bf-aed1-9974f325e12b"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gl
+Signature: GKJhTQ/7iGgjrsfjqpxznujWXBAciNgZ9dM7L6EvUlg=
+Modified: 637963154435512526
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\pe.yml
+ID: "d3b7eb77-412e-4fd9-9a08-5c679c64fbe7"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/pe
+Signature: SMA1CHilphwzXDTe4od2deVs798NKpSXXVfPkadZwi0=
+Modified: 637963154436221480
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bj.yml
+ID: "1c1fb133-c773-419a-8da8-0e15f8d55365"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bj
+Signature: Xn1R0ubKKeIglHOIDdbF7PbSGGDuubc19MZW8swxQS4=
+Modified: 637963154435024625
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bz.yml
+ID: "30003a91-2d3d-40ce-9549-e61cf270cec7"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bz
+Signature: ptY//vTMClqM2Fg9Fh+DrKtn4iAB0K9bxe+GzjNzeW8=
+Modified: 637963154435120552
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gm.yml
+ID: "6f72139b-bad3-43bc-9187-efce9c848c46"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gm
+Signature: aDSRQSRwg48y4qRJje7d16kMeB6TqK5H5alfUeGk1qM=
+Modified: 637963154435522764
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\pf.yml
+ID: "0d9cbde7-a280-45fe-a15f-8fa07443b949"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/pf
+Signature: 4rwfRphbyeFWtaQI0DTmwKYlknVOAsM5KaBDXmpp0MQ=
+Modified: 637963154436231481
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bl.yml
+ID: "637319eb-f91b-414b-84c7-1e96f3f95ad9"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bl
+Signature: PPIHoLCwSwsFjVkqgWoURIjqcKPJGlX5xQN2iVrmiKU=
+Modified: 637963154435032617
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ca.yml
+ID: "e5554781-7eea-4a64-b4bf-b75a671ac275"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ca
+Signature: k2LA+jTYXGaVTh8kgR1pCllrtVPJ/3AUENyNwrdMT28=
+Modified: 637963154435120552
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\hu.yml
+ID: "76554b47-76c6-4465-9131-333e44465bbb"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/hu
+Signature: EzKGqwpUMkrGa3hV0htjsfchNUKYRDdmOKIaUO9a5Bk=
+Modified: 637963154435679439
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\pg.yml
+ID: "d04d50a6-7822-4ee0-9efc-287145084ee7"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/pg
+Signature: 6jahrCPXZhFlNDEgsNavNpNtZZOH0R4+WOQaiNRSwII=
+Modified: 637963154436241485
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\cf.yml
+ID: "f865f1f6-f28c-46ab-a441-16baa8d1416a"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/cf
+Signature: BV5/YPWtsIOBfFQJF3n0GCcD3xQmYKfekypi1URbbw0=
+Modified: 637963154435140542
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\cv.yml
+ID: "541c5876-df1c-4f90-87bd-cffb7ccb4ccc"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/cv
+Signature: 21BJOp/+kCXcIjM+6o/if2gAmeBTsHMJqDPNyx53BSs=
+Modified: 637963154435257269
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\id.yml
+ID: "2d418710-b58b-4fce-884f-1e8685214210"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/id
+Signature: ohevdhle0ilG6+px0l8IabOcoRHgXzoFioqOMeD1AQ4=
+Modified: 637963154435689432
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ph.yml
+ID: "cc305d23-937f-4918-b86a-d439d230f99c"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ph
+Signature: 1Dm7m2s1Q/eOPNdgnLb7hZAlDwexiRxxx6VWVLu+hlA=
+Modified: 637963154436251492
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\cg.yml
+ID: "8c07a663-d05c-42b1-9f26-0f3c0b213ee5"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/cg
+Signature: lkzq+nvnpzsNtmgHO3cQlV9pxJEHv+qPS7CwyMLJiao=
+Modified: 637963154435161104
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\cw.yml
+ID: "c045f37e-1c7f-4ceb-a3dc-fe134173d7bd"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/cw
+Signature: lXwFX2W+99mAKKSNkDWHgLtWn7mEGKj/rif4uv8iV9o=
+Modified: 637963154435257269
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\jm.yml
+ID: "a38f5d35-bb3c-438f-ab50-5299c1ed60ee"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/jm
+Signature: XcpPpom9VxXm924aglhUQG3TSi0mhyxLojm9XQJzrPs=
+Modified: 637963154435769436
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\zm.yml
+ID: "9ef8df62-7197-401d-be55-aaa425c5fc9e"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/zm
+Signature: pN3SD3FKhiDETu0wlBEReJeqjC7efb6WE2b3H02VDBs=
+Modified: 637963154436803873
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\cn.yml
+ID: "09a19a49-1213-425b-be44-cc1d5e04c38b"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/cn
+Signature: +SVae4WvMUAeWT9rB5Av5DC6ykpbAP164qscmFy1Vmo=
+Modified: 637963154435214033
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\dz.yml
+ID: "c9b017bf-5d98-4a88-8096-edfb500f2f34"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/dz
+Signature: sg9U1OQLFekM3nCgbBOGFKbkIBUnkB/us8RBGRkF4mM=
+Modified: 637963154435347209
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\jo.yml
+ID: "8cced90d-cfc5-4cdb-b962-6e308e8dbae0"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/jo
+Signature: wDoK7V/SsE85DYcfCtcN07eXHmgHNoNl32JI0ebjNMM=
+Modified: 637963154435779834
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\zw.yml
+ID: "d1fd89ea-2f9b-4ff0-8f89-12afe1939d9d"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/zw
+Signature: SMfQN2SkawDl+qzp1S4gqi6pwagTxy+9l/rxd9aXSUs=
+Modified: 637963154436813876
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\co.yml
+ID: "7d5b4944-14c2-4b11-be85-e371a2cdbb08"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/co
+Signature: /K+Qyo9dfXlWrTnG5ccFUpUiIPfM04jmfKnj27aQn9M=
+Modified: 637963154435224045
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ec.yml
+ID: "1150a330-e70f-4374-b348-ac06558e0fec"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ec
+Signature: xz2e/hrXlrS2qLQhv0MYILQvHAX8mTGVDRB5TP8DMAc=
+Modified: 637963154435357387
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ky.yml
+ID: "2c05cdb9-e734-4902-8f59-a54d7692a551"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ky
+Signature: RmSKraQoDsTnhxX2cW2T6p7YBtlKnZ8HkMjj6M/WwQ0=
+Modified: 637963154435847308
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\cz.yml
+ID: "b03f0ce4-6836-4ec4-a91f-68c27792ed5f"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/cz
+Signature: 93LlVG68jvR+Lhd/jKGwCOq1dYsAjH4wJf7ZK1P6W4E=
+Modified: 637963154435292724
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\fj.yml
+ID: "48a6764b-77af-4aff-ace0-ec9cbdfd6c67"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/fj
+Signature: d83QYq1uqgr6j+xG1li8Poj56csSmzDox9o7yQLVSfc=
+Modified: 637963154435418729
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\kz.yml
+ID: "341df3aa-3d7c-45c9-a596-81e7ced5eca4"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/kz
+Signature: XnaO53ljX/1wQRy/8qrkxUcXGZVXAzsNHNo/EXl7KNA=
+Modified: 637963154435857300
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\de.yml
+ID: "c3efb0ba-9bbf-4a41-846d-bf6e82f4150d"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/de
+Signature: aOx33G00STFeDtCGu7zG2D0tePLSj6v0kFWmsCRDY/8=
+Modified: 637963154435300988
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\fk.yml
+ID: "9f66c1a0-3252-4f0e-a90a-578081c3551e"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/fk
+Signature: JRCvs7JOxHJq+o1xT8dCPq8lH+Ovuf6lmtXhLglQSuk=
+Modified: 637963154435418729
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ly.yml
+ID: "b8d58925-da90-491b-b3eb-642699c6f16a"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ly
+Signature: MgSOPWW48bsErh9lsgzHm3W6hoNECi1ODN6a7G9LyYA=
+Modified: 637963154435941638
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\et.yml
+ID: "146c236b-9f7f-4e93-b3e4-d8ab8875e237"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/et
+Signature: BpNboirSRnuioIKCfpw9NJ6jKshCsnYOumGMJgtceoM=
+Modified: 637963154435398615
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gh.yml
+ID: "59a25ddf-54ef-4919-a97a-cb9b848407d8"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gh
+Signature: NlroqldwcAWg2OVQEvnHZJH1Y0sPCIcMsB4xo+ZXHpQ=
+Modified: 637963154435500975
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ma.yml
+ID: "25e70293-8c2a-401f-873c-2ffd8d105a16"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ma
+Signature: U0BiS6z1fXwbCHKB4+fb07PW+aGuDjLmBGCaZ30R0qo=
+Modified: 637963154435946612
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\fi.yml
+ID: "b22cee25-8e34-4d54-b93c-0ac22bba1f53"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/fi
+Signature: T/LdBa5JTiGAlnoZBp75lI7ro74g6OU3EODheoe17Rk=
+Modified: 637963154435408824
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gi.yml
+ID: "c86360a7-9fe5-4184-96ea-12aff7077d0a"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gi
+Signature: xkEvk3nunCFBukzbxFVVLtQrZ/NTlgHG2lpeSLv/YOU=
+Modified: 637963154435507524
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mw.yml
+ID: "ad9f2db2-c9a4-4431-a0a7-7e8c30709e0e"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mw
+Signature: trrfv+WbFdT3TwexgnlLsCE1cUeiyxmisDPgdxSASqA=
+Modified: 637963154436091547
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gf.yml
+ID: "171083a1-b512-405e-8139-db5982ca3da7"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gf
+Signature: o6vSnLFUfZLVQlfXFIWnDmJ7MEPtFICUtATXCmi1gSk=
+Modified: 637963154435479255
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\hr.yml
+ID: "329b19e6-6d12-420c-a889-aed805681a7d"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/hr
+Signature: x4rRUwe/m07rjwK4XrDrDR3pKqaLGpX/+UDtH6AaouA=
+Modified: 637963154435629351
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mx.yml
+ID: "8dcc03d3-8f55-41a0-9150-352ddc20f613"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mx
+Signature: 2OOpt0NU/oGxI5evbjlTlVn9n8TteYP9KzCUxnphBYc=
+Modified: 637963154436091547
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gg.yml
+ID: "e2aab5c5-c69e-4558-a2af-4bd6d6fa5409"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gg
+Signature: ZbfsbU5qyr4iHHgZVfaf3UozeOnHWGom0UiyIchVMlw=
+Modified: 637963154435489378
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ht.yml
+ID: "7830869a-0e54-4d2d-8207-4cc6712863eb"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ht
+Signature: YJy7ztcTNLCDdkuJWTAm9vlfFf+CJxKQEIq5B5t7Jfk=
+Modified: 637963154435669436
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ne.yml
+ID: "32abf126-1ec9-4caa-bf84-81ab7b09dde6"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ne
+Signature: i0u+VzBeO2J6CxwSpAit8NOQH+Hh0sxU0G/SIIDng1I=
+Modified: 637963154436131479
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gy.yml
+ID: "8b7a2086-1fa8-47fc-918d-9e81672dca3c"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gy
+Signature: +fpm8FQI5HPNOdnbFRyjkQqyfebbowkrGLYhIdXM7Lk=
+Modified: 637963154435591803
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ir.yml
+ID: "e98d516b-68f8-491a-86eb-635132f8c37d"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ir
+Signature: RL4z38Y9Y/+//7tCMmQz7bkxySwtKTyWgSRnFzM132A=
+Modified: 637963154435739440
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\nf.yml
+ID: "192728ba-3a14-4567-b54d-74873beb7f3f"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/nf
+Signature: m7P+JuQFb+HdSgv61YujCFqTcctNPDo3mqx0ttV3KSo=
+Modified: 637963154436131479
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\hk.yml
+ID: "007797a4-16f3-4224-b2cd-114d0b51b1a5"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/hk
+Signature: Ad6agq4o0h3y4o3grRe8X1fsrna8CFYLVduFv1MVnw4=
+Modified: 637963154435601816
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\is.yml
+ID: "5c03003d-2364-4daa-a2c8-8129e5fd4663"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/is
+Signature: qtAA2B2D/jMa/tcKYH87GJc362NZULyYr2s4a1n3yfw=
+Modified: 637963154435749447
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ng.yml
+ID: "088937c4-2fe7-40ef-8868-c553bd2eb17d"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ng
+Signature: 6erR3ebB3b1T1fUPkB0+fjLo33Doregu/IscCmFPwKA=
+Modified: 637963154436141485
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\hm.yml
+ID: "3089677f-d588-49f3-99f8-bc51216e33d0"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/hm
+Signature: mdJ5ndNU5a7lWZTPelxAAeE3GPMNb7quT+qg0QCL5Vk=
+Modified: 637963154435611811
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\it.yml
+ID: "477912a1-629e-44b6-a6e1-f881dacf2e59"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/it
+Signature: tvTm4HQZJsPnnoJ+nHzypPBPFk1xxZCI4zEhm2uePNo=
+Modified: 637963154435759438
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ni.yml
+ID: "cb71aa89-cc80-4917-b634-48c34a8480a1"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ni
+Signature: EUd+1//cQ2er15dY6gBFOY2HSiO1FTGBzlx44vY1bOk=
+Modified: 637963154436151491
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\hn.yml
+ID: "5794e7e0-8fa0-478b-8f60-6b670b6e3693"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/hn
+Signature: xitZjTqZWpMrxlGeSZky+iPs+sDxX3RzyrFKH0Ntklg=
+Modified: 637963154435622604
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\je.yml
+ID: "a283b6cb-538a-474a-9a38-3fbdf9e8c539"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/je
+Signature: dc76tAAoX+kOyPSNaoggfz7Kva6KCdfmjWoeJAHv0Ng=
+Modified: 637963154435759438
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\py.yml
+ID: "ea003da7-006a-4982-839c-a0fca3a4e2ff"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/py
+Signature: 2QLsDy4l80hnV1RBa7j9zQkSqlehNzRpsJRWb6a+QJk=
+Modified: 637963154436326064
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\kn.yml
+ID: "064f4c1f-5a8e-46ea-a116-c1f2a1a6f527"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/kn
+Signature: ByYeBIajM/OWn5MlqFk9OMT5Ho/iU4oG6hvWXwza/hY=
+Modified: 637963154435827305
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ls.yml
+ID: "3055f0f8-0191-4e8c-a4fc-5debbf970a3e"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ls
+Signature: kLnV2zwoqXIU+b7SmLDaaOOF077A+q6Q1yMb+etRRfw=
+Modified: 637963154435907352
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\qa.yml
+ID: "8d54ea78-0cf0-4b23-944d-f6eee2999b8c"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/qa
+Signature: spW6RBQKoFyLLR2FTHjzi7WFqZk8HYzUzXv5vqWvch4=
+Modified: 637963154436326064
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\kp.yml
+ID: "3722a5f9-4c99-469e-8cf8-621f0cd3b663"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/kp
+Signature: vhdCDt8UM1T/MiRi5BCLb1MDlqxLyoL6W+TWLAYZtOk=
+Modified: 637963154435827305
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\lt.yml
+ID: "3fb8aa52-9e14-499b-bf27-16107a2f823f"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/lt
+Signature: /0UvykGg+IFWvRaHgbE8HbdeU+rvV+8BObeZzU3WgAQ=
+Modified: 637963154435917312
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\re.yml
+ID: "4be76e7d-cfa1-471c-a1ff-c62dcd6982ac"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/re
+Signature: Epl+tAezt7KPrlXNgYez1STtEKFM3xXyerTm6DhKWYw=
+Modified: 637963154436336067
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\kr.yml
+ID: "655ef645-6e57-4bd9-8d4c-e0461ec6bcb3"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/kr
+Signature: V1sRcZe09NTOMZFz5GX24MuFdtK/jeS/zU0WsVUXDOk=
+Modified: 637963154435837322
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\lu.yml
+ID: "12d359a5-ac2e-4963-8e25-e28937fdb1c6"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/lu
+Signature: V8yynTB4Lkp5eauquCQ7zsq/11MbYduKXTjRlHXhyF0=
+Modified: 637963154435925970
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ro.yml
+ID: "5c7550c6-750d-407a-84fc-f188b2fea43f"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ro
+Signature: 936IL++pd9RmvzfCdFf9ox9dR/J4sbm0I3Hy60px4eA=
+Modified: 637963154436346063
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\kw.yml
+ID: "284a5a6d-8501-4f05-acd8-317f92c2c3d5"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/kw
+Signature: rAMH1mztf7tOQFZqTccSjA3rEUnTb21gGJ+3V/b/MMY=
+Modified: 637963154435847308
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\lv.yml
+ID: "1264801b-8c51-4ab2-92f0-8c891e2e6447"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/lv
+Signature: 6h7Bypr8tlnhzy3h3YoEQlnjaOMkXhAJt5LVQ4ifxQ4=
+Modified: 637963154435931605
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sm.yml
+ID: "2d392c5d-c309-41ec-9f29-cb5c3aff3f16"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sm
+Signature: F7kwpm4MdA0iMs0yOzhqnvC4VYDU3pKsUZ5J0FzY108=
+Modified: 637963154436452917
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\me.yml
+ID: "a382470f-1997-4cde-a906-10c384d5afa0"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/me
+Signature: EScuGZAd3IC6YMqG4A38WDi474mdlbouhmcYIO4yv6A=
+Modified: 637963154435966788
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mq.yml
+ID: "b3670c05-fc8a-4056-a8e9-8fb0fa7501de"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mq
+Signature: syA0F94Dds6sGyi9Wb8+1H0qLr2xWxjgRpjdEO0CrQE=
+Modified: 637963154436050914
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sn.yml
+ID: "71b1ce21-3a3d-4c88-9461-985188cf053e"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sn
+Signature: qt+fvYieQX/C0et0P+Jx+OpEl6IZSlMEficu+GuORgU=
+Modified: 637963154436462912
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mf.yml
+ID: "56e2239e-8f88-44ae-b4a4-c8368f3bc064"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mf
+Signature: tIMDT32E2lHP65+xl97X1NSDDJIuMYbCZDmXgT9P4XI=
+Modified: 637963154435983630
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mr.yml
+ID: "35e91e95-4946-4f27-962c-c275d6d599b7"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mr
+Signature: M5jA5sxiXDFuPMdhKMjqIlO6nYx4i4Jma5lD5qPbnb4=
+Modified: 637963154436050914
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\so.yml
+ID: "348a908f-4639-479a-a721-eeb633659f3b"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/so
+Signature: /rM2ekmLy9+GtU2a1xF3QJgp5mYdEpbPSvHo6QnNWuw=
+Modified: 637963154436462912
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mg.yml
+ID: "a26734af-bc83-416c-887a-0e84da9910e2"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mg
+Signature: KxRZnHGhFJ5NTWKB8Xnm8F0Mg1g9gT1RV4WNcgAYOjs=
+Modified: 637963154435984593
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ms.yml
+ID: "92cbf569-ff9b-4af7-9d78-74e19d4eece7"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ms
+Signature: Rea5ioClNG3zxXzK+aVJbd2bneHNo+8+jQKSwOBBF10=
+Modified: 637963154436060900
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sr.yml
+ID: "acf179eb-a758-4640-838e-da9b4f6e15f1"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sr
+Signature: 32WU1r8UcpcVQXkBY6XXPIKlH5cCVyBCJb8NN4K9rrQ=
+Modified: 637963154436472912
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mh.yml
+ID: "217c8404-6a4e-4eef-93b7-d2bb03ee2eb6"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mh
+Signature: IF+CQu6lmY0uHm20RuzFRPONRJci39iX7Fdtj7tcJDE=
+Modified: 637963154435994964
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mt.yml
+ID: "c4f949a7-9e73-42ef-9e25-ab873bea3aed"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mt
+Signature: xY42XPvrRp6y+5xWc0Py7/GNxsrBctoyIyQ+He6Ogtw=
+Modified: 637963154436070915
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\to.yml
+ID: "a9727f6c-9080-4f94-84b7-1e5f4d8b5ab0"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/to
+Signature: vDJgRDH3pfMafNSbVI8bgORdVU7dmL5Rrf1AV848tkU=
+Modified: 637963154436614566
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ws.yml
+ID: "0254e57f-47b7-4506-9864-69c735e84397"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ws
+Signature: IIPPJCME05iuaiqs1zfBdxZQl7CeLlx8F2VCZDv2+Kw=
+Modified: 637963154436783880
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\nu.yml
+ID: "b5bbb6ce-e286-439c-8fb0-c40fa7672358"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/nu
+Signature: nlxao8ZwtUAKd6BXHWi4zA3Z5rvzUklV0lLW70kLFyI=
+Modified: 637963154436181473
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\tr.yml
+ID: "931a2fc7-4ce3-4873-8b2f-509cc96e7f61"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/tr
+Signature: ws3/XZj4vRKFZxguWiyUaG1NOFzl70WwDLKuVE28lnM=
+Modified: 637963154436624570
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ye.yml
+ID: "a019fafc-5ba2-4a5d-98bb-b4f8c37d19c7"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ye
+Signature: Jvvig1uFNfB7Kg8u8IAf9WICJJg0fWtnng0Iod3TNWc=
+Modified: 637963154436783880
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\nz.yml
+ID: "0c523979-78f9-49b7-8f80-574820fb7de5"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/nz
+Signature: QCl0PDvWLQ9VGGY1hyKDifPDiSal1V6+FuP2YQ7LNhw=
+Modified: 637963154436191481
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\tt.yml
+ID: "b7610fb1-d3c3-4f5b-8290-43887cc010f4"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/tt
+Signature: O3JIgApuKTrZ8XUCyWo7NFltmEDwFxu+suSnjnQny78=
+Modified: 637963154436634573
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\yt.yml
+ID: "649bd83f-8c67-4443-8b6e-0ba7436ea80c"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/yt
+Signature: pvEkzjUy54TajuBY0GrVO9dMPGjYoExY+hrl0244bnw=
+Modified: 637963154436794002
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\om.yml
+ID: "e7242347-f8f5-4db4-b550-1bbd7406a219"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/om
+Signature: /W6MRG5nGj1InSUczeXIyzYCyZYmw0LhER9sK1jxoz0=
+Modified: 637963154436201479
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\tv.yml
+ID: "34abce6e-acba-4bcd-97bf-94721475671b"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/tv
+Signature: BKuzpDfMyUEUNdg2OvJHxJTlkWVJSu5UySKymDiEtqI=
+Modified: 637963154436644571
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\za.yml
+ID: "5dad07f3-25d2-49c9-8ff8-b78a24f1cb0b"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/za
+Signature: 7RCFgZwpIm5M/1WX5O0M2YpX+e2+qAhWxemEFhfIlZs=
+Modified: 637963154436803873
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\pa.yml
+ID: "63aab608-0f5c-437d-9882-01d1bec1b411"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/pa
+Signature: NWIxjGOo6TvEC7L2A+yEJS/FXSSsXgUjPI3Lfv0WLv0=
+Modified: 637963154436211480
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\zz.yml
+ID: "13a21bec-3a1a-4f03-bc89-72bd3309dc1f"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/zz
+Signature: GqsQv7qn43nKEw53Fp7j6pdhXpJeY9Ugb59ko/cgxeM=
+Modified: 637963154436823877
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\pr.yml
+ID: "cfcb61f7-6462-44ed-9d3d-1bc15da56c88"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/pr
+Signature: HkRXyEXEWg/JTCBJHoRoFvqhwUc7wJ/E/TCO9o9zFec=
+Modified: 637963154436293988
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ps.yml
+ID: "6f2547f7-d252-4d96-8f5c-c380dc4dca4c"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ps
+Signature: +aUNsCe7zCDWZegOcIOkX5TPnTdepnFQxLglY0Q9X3g=
+Modified: 637963154436293988
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\pt.yml
+ID: "4abbc6a6-0da9-492e-b011-d0d966d810aa"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/pt
+Signature: Ro4aa6oDYBSnLM/GvJr9vELrLglHBypTmBxtBsEfykM=
+Modified: 637963154436303988
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\pw.yml
+ID: "8de9cc1b-3a62-40e6-89e5-20139a945b2e"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/pw
+Signature: LgOhXL7NYOgbUnvyXZtsmvJ5ihLpc8miBRw5nwPR1J8=
+Modified: 637963154436315832
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sg.yml
+ID: "3591289a-b429-43ea-b5ec-470d5cba90dd"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sg
+Signature: hjHXoVinz+Xe/hnjL7bPvOv5f9Rp2O4k0rVnERxpIws=
+Modified: 637963154436405650
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sh.yml
+ID: "2f3b07ad-56b3-473f-ae39-2e5a93e3ad93"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sh
+Signature: EhwRZ+NxGytu/hf2eQbpdUVb4jRYnKCkJXXWOTr0fHE=
+Modified: 637963154436412851
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\si.yml
+ID: "5343c6b7-6767-4f55-93b1-628e9e2d9a6b"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/si
+Signature: ainXvJC3l3Uf+CZldNkgGukQ/Wv90ELdxrKNOD6nHuI=
+Modified: 637963154436422917
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sj.yml
+ID: "9632c87b-fbd2-4d49-b9a0-3d26f75041f3"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sj
+Signature: eev6Cj4wcNqdfgKosvpjqIAq1ZjTOjjTVwsMZCnnyVc=
+Modified: 637963154436432903
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\th.yml
+ID: "461276e8-75df-4181-aa0d-9bdee7dc8b81"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/th
+Signature: SyV+bYIa6ywrEZniU0HhgYe7KD5mZ8Ys5Li9cLuRcig=
+Modified: 637963154436563395
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\tj.yml
+ID: "88b9094c-76f2-4a9a-afbf-cda4c83255e0"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/tj
+Signature: fsGjeHa2gIUxGeGd3m3GdAAo6dOHyEeh/igCE6vmumc=
+Modified: 637963154436574577
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\tk.yml
+ID: "f9c09abf-114d-4646-944b-83534da3d801"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/tk
+Signature: M/BOmlnsS6enG9KiXeI+dYKvC4vmNoiehkD/0ma8oIg=
+Modified: 637963154436574577
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\tl.yml
+ID: "c3782605-73a0-40be-ba6c-4e7711546b3b"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/tl
+Signature: u8n5RKta7cHerl0byi4YMgg0jjmbC+ZfAriHKjQQAz4=
+Modified: 637963154436584571
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\vi.yml
+ID: "62596f71-a434-4a4d-89e7-52149b49725d"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/vi
+Signature: pw4gmBJpiWaJDfa4nPg/Gxvgy+VsWyJss42FndfQ9zk=
+Modified: 637963154436753879
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\vn.yml
+ID: "8f7fd5c2-320d-4cab-8f91-1fdc2ad4b0d4"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/vn
+Signature: 7eaL+BpAz4PWmeeO59ODnWKDlR4YQjWouA3A1+TSMYA=
+Modified: 637963154436753879
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\vu.yml
+ID: "1b079c4d-f413-46b8-a186-650116b25b78"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/vu
+Signature: cQyENDrTkcScNGWiQaradr3059pwG28Am4UN25//RQk=
+Modified: 637963154436764166
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\wf.yml
+ID: "87285c2b-7f92-4b12-918b-5e7b3ecfc53c"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/wf
+Signature: GbrQB+SMRkXmgpFdkNiYe3+AEzOAMHeA2xB/+eGwar0=
+Modified: 637963154436773882
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Editing Theme.yml
+ID: "d39fe99b-e333-4611-93b7-f7af0da7275d"
+Parent: "205a5ba3-5807-420d-b12c-1621c9d89314"
+Template: "78086ca4-8985-45eb-8aa7-b2948d2a0e06"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Editing Theme
+Signature: Pmst5IPIkjY6UNpq2HCamLTLilcss7VQT0D3+qrNjJ4=
+Modified: 637963154433273236
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bf.yml
+ID: "16964d30-eadf-4013-885b-776888d52daf"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bf
+Signature: tNqCOhx6cZ9zDPX5h2huwSTHwSWZNTgaB+DTJ5di/0c=
+Modified: 637963154434922101
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images.yml
+ID: "08799409-2f95-4294-8336-85f467dbf193"
+Parent: "7650efa8-7120-4ab0-bcca-2e73e3dfe0bc"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images
+Signature: H2d5c9WC1E+d6w6IxWuWcrtMwiQUcIk8fovQSy/QM68=
+Modified: 637963154433998372
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\br.yml
+ID: "1c116812-acbf-4cfc-ab79-1e1e823663f5"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/br
+Signature: rTRi5QP72X06aCYKBPzOpXqsoEcUd+yrrMv0meMRJSg=
+Modified: 637963154435070220
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\fonts\OpenSans.yml
+ID: "38d4425b-ac1a-4a46-a223-eedb2903bf42"
+Parent: "c4f3ea74-f2e4-4500-b259-dba824cd7b52"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/fonts/OpenSans
+Signature: kuDAoj1WP+SBZcLR3YGlCk1ZuNd5fNFf3zHiaY/JtfM=
+Modified: 637963154434129402
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bt.yml
+ID: "c3478237-36dc-4414-a0ed-526d1a87795d"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bt
+Signature: R7+BWYB7maoGZ0AfaayKFgFZt6mOJrl5ptPLuuAeOUo=
+Modified: 637963154435080557
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\gulp\jsdoc.yml
+ID: "2258c74f-f441-41e0-9920-4141d3409d82"
+Parent: "999b9f11-4a89-419c-abd5-58303e1c2dcc"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/gulp/jsdoc
+Signature: MZbZVZBf7WBdwH0xMz0+7F3LaX/aqkPQB+WZW8Fj+jc=
+Modified: 637963154434102691
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ge.yml
+ID: "85979b80-99a7-45b6-844a-fb158c86b793"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ge
+Signature: gjhV8dp65a115ghXxeoIhdn1ZqkiA4Wj0BWrPLNvAjE=
+Modified: 637963154435474247
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags.yml
+ID: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Parent: "08799409-2f95-4294-8336-85f467dbf193"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags
+Signature: zPeUW7yBTFdOvwjtIGXP5BVT0U8D2RbfGqO2xMSTXRk=
+Modified: 637963154434143085
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gn.yml
+ID: "a114741a-bf46-4cd4-a8ef-ad96aace7da9"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gn
+Signature: AwHyZz6uuwCQHkWLvHpO+lQOSIj3cT7jF0ZW0CdhOt8=
+Modified: 637963154435533368
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\square_bg.yml
+ID: "2dd3e9ea-c6da-4b61-9a3d-4750d4084b62"
+Parent: "08799409-2f95-4294-8336-85f467dbf193"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/square_bg
+Signature: hts7D2ive6XubMk7RPWZFcPgiD0wn7JcVqIC4vgGRbk=
+Modified: 637963154434307035
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gw.yml
+ID: "ba8da15e-4014-43e4-b0be-545fc90c04ff"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gw
+Signature: 05hl3DykDTL5h3eoA4AlLvmS1nDZKPdN6K7/HtDgEf8=
+Modified: 637963154435581823
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\fonts\FontAwesome\fontawesome-webfont-woff2.yml
+ID: "b3ca3015-5b76-451b-a06f-af5fa901698e"
+Parent: "e7f52be0-667d-43ab-b11d-c059c4d9e26a"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/fonts/FontAwesome/fontawesome-webfont-woff2"
+Signature: YtLF1j0pFfNQOew6VhfW6UpXDG0xuB8fKLtD5osSwVQ=
+Modified: 637963154434585859
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ie.yml
+ID: "b612710b-13be-49c3-a5d3-30bdcda25f1c"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ie
+Signature: TkFOQFVTmQV4U9toUDc/AI/vnfsTkvsYro4jGpiD3TA=
+Modified: 637963154435699445
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\fonts\OpenSans\opensans.yml
+ID: "57620543-a3e5-405d-96ba-3e2eebaa53cf"
+Parent: "38d4425b-ac1a-4a46-a223-eedb2903bf42"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/fonts/OpenSans/opensans
+Signature: HQJOXc6TBbfrPkvGRvx/5rD2bT+ceK2RKwKneFLZs/4=
+Modified: 637963154434611524
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\iq.yml
+ID: "63a65eba-93c0-4deb-b19f-198d97fa7f06"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/iq
+Signature: dO/SX+WTpZqDeLXJQSpco3x1KbuybTV76VNm915OpPg=
+Modified: 637963154435739440
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\al.yml
+ID: "30e7cb36-47b5-4052-a4fa-aad38766c6f4"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/al
+Signature: aUnPIzF/MAiLp3U6m/IyKN9cFmIh9becuST3aq0yNYI=
+Modified: 637963154434781516
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ki.yml
+ID: "abe5fcd8-e0ae-4a43-b3e4-d6e9e01f1b47"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ki
+Signature: CeujesGHihYa+ItvC/XJW18cnwu4QBYEABZCQPN0WbU=
+Modified: 637963154435807317
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\am.yml
+ID: "144e8ca3-eb9f-495b-ad79-21bb440d80b5"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/am
+Signature: bOjAVfYws1qW1aV3ljpZ8Ngb9lWLcIeZg3TTlZ5elqY=
+Modified: 637963154434790257
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\km.yml
+ID: "12d4b3da-a6d8-4457-9e4e-fe1f170f2c84"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/km
+Signature: 9x/vT8u/PSxbds/JEpK7efOT+NKPoQu+bcW8Kr74agg=
+Modified: 637963154435817313
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bb.yml
+ID: "5e280d58-4c25-4f5e-8de9-13e2e38dd76b"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bb
+Signature: ZZkmYaqQSwRc5tTfLA1SVd0RGqDjJEezQYHVQZbVq9o=
+Modified: 637963154434896808
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\la.yml
+ID: "a9b10875-b1eb-44b8-81c7-14727eb31ca9"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/la
+Signature: /PpxH3jaDMHgVQ8OS5t3UQotlJOtHCLqe78LPSSfPtA=
+Modified: 637963154435867309
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bd.yml
+ID: "c33f12df-917f-43a5-bdda-aa3c3c87c8d5"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bd
+Signature: 01bMgmBosry1irmiyGyB77uLFZCvRHoYo63s+Z/sCeI=
+Modified: 637963154434906796
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\lb.yml
+ID: "d4e69ef2-7fe0-48c2-af61-6c30bed8df5c"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/lb
+Signature: hYxDQpH4qpvCM0YrrE+4sbDpdVa03Yb3hESdnnQudWA=
+Modified: 637963154435877314
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bo.yml
+ID: "f1b88d6c-c4b6-4143-b6cb-6bdb48bc3414"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bo
+Signature: fIWjL4Jw59dzKiynqbfLJGoxBrpUBC0hcXMFH+yA7O4=
+Modified: 637963154435053874
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mc.yml
+ID: "40bd3248-ee68-4109-a5e2-52401016b558"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mc
+Signature: oXPeXJ9cZDFHxeia1KB6V7E8GA3zf8KmAp2+wuh3skw=
+Modified: 637963154435956734
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bq.yml
+ID: "38c744da-95a5-483b-8c19-489876241348"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bq
+Signature: 6JeCjV25YmiQ4MClzzsyM/kl2pXR2P6sxsy/l61rGz4=
+Modified: 637963154435063842
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\md.yml
+ID: "ee3cf963-38aa-4445-b620-85517207740d"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/md
+Signature: w22PZVwlKFbWwfN73OPwZq4QcsNugm9w9E13cngqUwo=
+Modified: 637963154435966788
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\cc.yml
+ID: "42547154-2f9b-4650-a141-32badac5c57e"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/cc
+Signature: GXzIqoHIuKLxRX0pUKJjFG771vpm0WmmwWtji6vNXb0=
+Modified: 637963154435130547
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mu.yml
+ID: "2571d02e-ea27-4579-9d5a-c961ba8eeae0"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mu
+Signature: OOWJ1/2q7/v5NaR31jWXogKq3kHQ6aXbcaT2MSbP3A8=
+Modified: 637963154436080532
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\cd.yml
+ID: "0253d371-2640-4c48-a23d-c6c60dee2fc0"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/cd
+Signature: U4969WrHF9vI/C05agEB4VL5PPVPfc+72adPzNiGJeo=
+Modified: 637963154435140542
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mv.yml
+ID: "9fb71608-d979-4002-bedb-118ac752fcaf"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mv
+Signature: hjQb5HPGIvH907gnGtZJsd3ldz1dxV7TO4WmvKuGENs=
+Modified: 637963154436080532
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\cl.yml
+ID: "6936eb3a-b713-4dc9-8d07-e1edd7fcf8be"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/cl
+Signature: KKY/36YMWOrD+rwc1rRaElkC0FcHSefyvqbVqEgJZTA=
+Modified: 637963154435193407
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\na.yml
+ID: "40bf0df7-141f-40e4-a569-351e42939f70"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/na
+Signature: I6w4CuCPUUgr7i1FjBEJeS7VmnrAIgL8u0cKgRaRawQ=
+Modified: 637963154436111479
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\cm.yml
+ID: "d46f9c12-10e0-4fce-a991-c84c20656838"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/cm
+Signature: 9Zo4dABlJxb3RZwJLm3IySJfrso2r+0aephBWCTt39g=
+Modified: 637963154435204037
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\nc.yml
+ID: "791ebc1a-5c78-4174-9963-fc5f47167115"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/nc
+Signature: ycnH53l+V4rSRsMWR7TSBq7U0Ryn4cTNbKZ7fG4BMPA=
+Modified: 637963154436121498
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\cx.yml
+ID: "6e0c610a-5a08-4523-9f22-5e3a0ab38952"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/cx
+Signature: k9NeKM8c1TpiKBauBgXeHMXl/CTbe92NeNh2Oh/sluw=
+Modified: 637963154435274472
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sk.yml
+ID: "5c4d2c9a-c5f6-4faf-9493-70bff4b4b9cf"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sk
+Signature: YcMt8mk5IzO89UAmAGdmyLztDMrDTQSdDqSGLTyWr8E=
+Modified: 637963154436442906
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\cy.yml
+ID: "6c0f1eec-ec89-4b99-b561-7ae2d5b6a82e"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/cy
+Signature: dzkrqiXN/nWQ/gqVGncClXs1K5tjFTtRA/8Keqrbyjw=
+Modified: 637963154435283098
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sl.yml
+ID: "77282dd4-eeff-4da8-9088-e2470d3bb854"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sl
+Signature: OKfgeFzUBrKKXOPuDXymgcEKlj5IMe1KAZ2A9CRZL3o=
+Modified: 637963154436442906
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ee.yml
+ID: "ed32f50a-8839-48f4-a7b9-240029ce2f46"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ee
+Signature: Ta+xTiE/lhl2mECk60WjlnW+vK/EDjFeFWWC4UveX8M=
+Modified: 637963154435357387
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ss.yml
+ID: "bcc46049-abe0-4de4-b167-65bae331b2d5"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ss
+Signature: +iz8U3I2cRfoVWgFIJ2lxCXq9gK2TE2an31uxiPMHKc=
+Modified: 637963154436482907
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\eg.yml
+ID: "7bf61aa1-541e-42bd-a299-1fb280012b4f"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/eg
+Signature: QHW7aMi1FvVhi/vvfWD8KY5Beiet723UNjeHP8J3Kac=
+Modified: 637963154435367414
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\st.yml
+ID: "927399ae-3537-4707-978f-496d3496b905"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/st
+Signature: dD2v8GdmhQ+vdAJ24g2ZAztRk0mHLCZRVyl4KSpVbx4=
+Modified: 637963154436482907
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\fo.yml
+ID: "8cc4a2ab-f046-4e30-986f-9371ce348f35"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/fo
+Signature: alT3APnV0/2yn7qja70Gki1owSRHTr+tEI4jzQiorHg=
+Modified: 637963154435438721
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\tm.yml
+ID: "0ec5745f-b0e1-471d-9d71-cbff766a33fc"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/tm
+Signature: p4WE931mXXRAG1T4UaSHoRWLAfxW6WW+fuPTya7gFGA=
+Modified: 637963154436594581
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\fr.yml
+ID: "0e21c58e-1e59-40e1-8e74-2fe1daceb934"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/fr
+Signature: eFXO/dfPoXaDU9nVFneOAayB5WUJ1a9a/f0u6gKPnpQ=
+Modified: 637963154435438721
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\tn.yml
+ID: "de3b703a-73fa-4db0-be41-9f21f86bc187"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/tn
+Signature: QRI/YPCDny3PdJUprhwFsrfTaKvTDgXHQZ39tebtc3E=
+Modified: 637963154436594581
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gp.yml
+ID: "81303de4-0615-42bf-a0be-5c5e70137dc9"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gp
+Signature: AllTNUvLjZGK/yNAJvb+sKzONbowzzJRDkuzN/vpq8A=
+Modified: 637963154435544942
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\tw.yml
+ID: "f37e1549-39c2-4855-a7e5-4c62177463ac"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/tw
+Signature: iroAQIEC7196cFmC13XZ+TXoeU3eH/KQw+6Zwk4F2xg=
+Modified: 637963154436644571
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gq.yml
+ID: "0247c01b-60f3-4e57-8ff4-bdddd0cb2772"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gq
+Signature: Mk7vRkwOeSx+W3reL777carqVYMxT3vpeT4N4NY5Xu8=
+Modified: 637963154435544942
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\tz.yml
+ID: "843b3118-5b77-4787-b6ca-776fbd47a6a0"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/tz
+Signature: NALTuiCBuRMfYBy8O+xTd6tjDlPHaAJr196kdPjQaoQ=
+Modified: 637963154436654581
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gr.yml
+ID: "f1e0bba8-5bef-4c6e-871a-2e2cfc9da2e6"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gr
+Signature: /XK2hDMRWS0x5ColoV6WTbhItRu4AKzKsgJho8EcUa0=
+Modified: 637963154435554949
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ua.yml
+ID: "e87c30e5-d28d-4011-ac62-ee9398e79014"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ua
+Signature: 5T5f+boXKjvgMKCmo+w6dL55Q3fTtdczun7kDPVYr+g=
+Modified: 637963154436664561
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gs.yml
+ID: "466e171b-90cd-4af9-9699-48f5f8fecad4"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gs
+Signature: p7LtxoUiv9V3rueg2qrNesHjkJtwdM+zOD9FOS5PX34=
+Modified: 637963154435564084
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ug.yml
+ID: "34f827f9-29fa-4d20-bd0b-ecb7ffd822ce"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ug
+Signature: awt4XASPzxcmPMukLek1p3jGesWc8VpfouNdzmxgOdM=
+Modified: 637963154436676818
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\jp.yml
+ID: "41ec1bbf-f685-40b0-96b2-160c1904ffa5"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/jp
+Signature: GFnhBOFL+XfdPmhUqpEOQDfJ1ycTqUCYKERwhlag5d0=
+Modified: 637963154435787185
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ke.yml
+ID: "0e1be000-7ed8-4dc3-8056-0ab24a2b97c5"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ke
+Signature: Ftbxlw57XBpHSiIgC0uSkWFJBGQwnliNUIfww2PujIc=
+Modified: 637963154435787185
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\kg.yml
+ID: "e743c46a-e700-4892-9d8f-44a71d46fbfe"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/kg
+Signature: R+6td+yX0rEkfbNNcO0a8IlW5ohC1mHa7nVgXYlQF98=
+Modified: 637963154435797317
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\kh.yml
+ID: "a5337fb9-b9c3-4a2d-aa60-948aec4637e8"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/kh
+Signature: FomfnZDAVrjy2qZD9InnV0ZanxsipPTUZgawDIqks/Y=
+Modified: 637963154435807317
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\rs.yml
+ID: "5e096738-0951-450e-bb52-c77db74173ee"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/rs
+Signature: dz8Y9BVTQUzLMci6+nKSL5URRKjA/3ZMleeJomW+PPw=
+Modified: 637963154436346063
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ru.yml
+ID: "baaaec9d-2736-402d-9485-31bcf064bef5"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ru
+Signature: VKMXMj9uLn728PcgpFhCYZKevKvSn6WQuhXbzICTOx4=
+Modified: 637963154436356064
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\rw.yml
+ID: "d6a7bffc-3fb2-44bd-a976-c957b8e13aae"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/rw
+Signature: IUPEPd7i9xQHXDOqFG581um7SaW+5TFf+wyDN7hMC7c=
+Modified: 637963154436366064
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sa.yml
+ID: "9f9e5073-02fa-473c-9066-b0bac2d32b52"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sa
+Signature: 1BLCh8Wer1P8d6Wp97cBDKOKNVtw0QfAW00Tt8SUczc=
+Modified: 637963154436366064
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\tc.yml
+ID: "d8c561f5-bdb5-4b5d-b191-0ac4424b8864"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/tc
+Signature: JsOgB2vxUhdQJ9q6415Zf9qmufCB1J6+xUNuHP3Gjb4=
+Modified: 637963154436532911
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\td.yml
+ID: "777ba082-eedb-4c35-99cb-e35e6c8d2646"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/td
+Signature: N/yJH2Y43mZjy0bd8xioQxKD1JGyNGUy8E7A87Y6zEc=
+Modified: 637963154436542917
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\tf.yml
+ID: "ad58f37e-cc4d-461a-8a93-70686a0b7465"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/tf
+Signature: +O/3ZM6zc5vR8pD17ex4qZtFXWytMo6vvmZLjJ4tv/Y=
+Modified: 637963154436542917
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\tg.yml
+ID: "5f97544a-95ad-409b-a8cd-935ab6693ecb"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/tg
+Signature: buQEEwRqvlbTrB7Vwor4FD/oTmo5cpdl+OlhThyBxrY=
+Modified: 637963154436552928
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\va.yml
+ID: "6ee8c03c-16b9-43e1-b80d-62caaadf75fd"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/va
+Signature: h1PgkslS9k0bpoVtJE9klDqJEZDOGTDQg4GnPibHOJM=
+Modified: 637963154436707434
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\vc.yml
+ID: "001946f8-0295-4228-82c9-097e291dbbcf"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/vc
+Signature: W5HTb8PdzdnVI0MYMdnQL5L9sNN/A4XBlhIkTOMxzvM=
+Modified: 637963154436717868
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ve.yml
+ID: "88725d8f-c7c7-4270-9d8b-15746b3309ea"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ve
+Signature: LXcJXdO8ASTsvlw9iEoPREJpsKdFadgY4cM6i4PyBbc=
+Modified: 637963154436734120
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\vg.yml
+ID: "2ff10753-9a30-40d7-b770-4bc28e43bb65"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/vg
+Signature: NJ6+j37BwTWIfUQ9/XvZC5fnFgG0AgB4p6T8nCXOi7A=
+Modified: 637963154436743892
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\fonts.yml
+ID: "c4f3ea74-f2e4-4500-b259-dba824cd7b52"
+Parent: "7650efa8-7120-4ab0-bcca-2e73e3dfe0bc"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/fonts
+Signature: s8439KBPzLHhWaRA0WcZYscaoKpqeWkvB6dwRLs4ptA=
+Modified: 637963154433988376
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\Scripts.yml
+ID: "d36a4f96-b2fb-40e2-b30e-eb3d191db876"
+Parent: "7650efa8-7120-4ab0-bcca-2e73e3dfe0bc"
+Template: "536ef8ae-e6df-4aed-bd84-1f18de8cebf7"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/Scripts
+Signature: dtvJjX6rFmfwEQQWxuXZTGVkB+ii/bx5EILHto9fRiQ=
+Modified: 637963154433969692
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\gulp\config.yml
+ID: "8d5af3cb-8d6a-421a-a31a-3df904583049"
+Parent: "999b9f11-4a89-419c-abd5-58303e1c2dcc"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/gulp/config
+Signature: OUM5Kmtc1KQCweHgwl4DkeiW0rDcwgf5T7+rHy5DjF4=
+Modified: 637963154434088880
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\player.yml
+ID: "cbbe94ac-26a3-402c-a70f-a920d57a6b75"
+Parent: "08799409-2f95-4294-8336-85f467dbf193"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/player
+Signature: J9bOmkEakJ4PgB8BSnQ/cAbrEkQf1zYkisT6BfJuMZM=
+Modified: 637963154434207126
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\fonts\FontAwesome\fontawesome-webfont-eot.yml
+ID: "fc18fce8-90ad-4eb4-ba83-b2a82ddd565b"
+Parent: "e7f52be0-667d-43ab-b11d-c059c4d9e26a"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/fonts/FontAwesome/fontawesome-webfont-eot"
+Signature: ciou9d+O4bF1i9BSTDK1NqpeTzZcM3u+cEFzrzqyf08=
+Modified: 637963154434434333
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\fonts\FontAwesome\fontawesome.yml
+ID: "ff78bafd-ed2f-4cdc-86b0-f2805ba832c7"
+Parent: "e7f52be0-667d-43ab-b11d-c059c4d9e26a"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/fonts/FontAwesome/fontawesome
+Signature: Iy/D1ZROGpLieBUpJTp5N3eTYdKFoZirV3Ft4p/snoU=
+Modified: 637963154434393544
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ad.yml
+ID: "5885df87-217d-49b4-90d8-bbd66b020dc0"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ad
+Signature: 69lCMLiI+d7GaVQwIarZ6Dhj9r8vmz9qa5ejJTQlKA8=
+Modified: 637963154434726797
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ar.yml
+ID: "d591a489-a57c-4356-8181-92bd02d413b2"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ar
+Signature: YahhTdSTTi0OT/yaIjuFnV2HYJWQuTwlQ/UMFWf4d08=
+Modified: 637963154434822029
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\aw.yml
+ID: "51864deb-7177-4df4-b771-5ce8f36121a5"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/aw
+Signature: Ifrs7fsL89f429PE5bodKiPQdlWLxpEbY8AC2bAVTsc=
+Modified: 637963154434860333
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ax.yml
+ID: "e94a5a34-197e-4a39-9c0e-12878c4b612a"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ax
+Signature: i8w4Z6+1IENNZ79/xrCoPAzdUbUNxhOmdaWf8xF2wzA=
+Modified: 637963154434870432
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bm.yml
+ID: "98999486-125f-4f1c-ae6e-e7215cd5a66b"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bm
+Signature: 6LTWtkgMSlDBT73PIMFijwmIoF+T+xaSmzDZ31pmCfE=
+Modified: 637963154435043874
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bn.yml
+ID: "d38867f9-11e9-4d62-961f-840b0c8ceed8"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bn
+Signature: QREPv9rLytOqd6iKDjFXs/wQ3FE66q3URivB6IEEmos=
+Modified: 637963154435043874
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\bw.yml
+ID: "108788ef-55ea-43e9-99bc-2cb1dabe73b7"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/bw
+Signature: tZ72uUzzCsH6usHIsmNuF4diPqfUdmBw6idz1wWRy7s=
+Modified: 637963154435100566
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\by.yml
+ID: "72a91029-bfd4-4e94-ad54-274ac9f3a0bf"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/by
+Signature: VPvPesAj0Jtdzb+47IGcTJBvhvXEhZkLStHXaw0eqdM=
+Modified: 637963154435110772
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\cr.yml
+ID: "7ed7ecf7-f09f-4e31-8d94-4168e054c432"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/cr
+Signature: 4YVWoNxVpCD/FOMorf8Z/pL2a6/L4sZ9MsQ3Nv6mfI8=
+Modified: 637963154435237634
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\cu.yml
+ID: "8ffa477b-71b6-48b6-a7a7-520c60c82f0d"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/cu
+Signature: nHQbBceDOmsR9qx4qxubBwLY2XL50m4m3IXgCaxuMyU=
+Modified: 637963154435246851
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\dm.yml
+ID: "4f285456-5035-43e8-b261-c5c049b0dd66"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/dm
+Signature: mMrxHYMSu7ZZAxJxDXjguTFVDrWDe4bmkCsit0ieIDQ=
+Modified: 637963154435323636
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\do.yml
+ID: "a73b3ffc-8f4f-4680-89f9-ff17aabed34a"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/do
+Signature: Lj19hL6BugYbnYbF1o35jNJlMK+S9HNeWBEQUwFfMZ0=
+Modified: 637963154435334902
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\er.yml
+ID: "fbe530c6-11bd-4447-8c94-d7669b0f4912"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/er
+Signature: /XZkvDifwENNHiMGpbPqZz+Xd5lljntM8c2L1/pZYGw=
+Modified: 637963154435377406
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\es.yml
+ID: "3dc60107-9f63-4fe7-a610-fe1642cf0335"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/es
+Signature: 0fDEKW0Vnn1CVC6XW+x9q15BM/XS9vOH8V5pQNfD71g=
+Modified: 637963154435387412
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gb.yml
+ID: "d5eade6b-9720-42ee-bead-b22928ce1540"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gb
+Signature: R1Im0H5vx3V8rg4HNckd2tBJ/JY0jKuoQCRboUonYoo=
+Modified: 637963154435458721
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gd.yml
+ID: "1d668972-c692-4f75-9df5-5c16ed9de8f2"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gd
+Signature: SIQNvPVUAZzCg1raO/PNHKj6wZ2UJwJvk85ANgxCQY4=
+Modified: 637963154435458721
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gt.yml
+ID: "504e444a-9d93-4434-874a-97d4a26d7c7d"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gt
+Signature: poFSdqkxMcCxDpSnvzP6n18QlVtah1dcCukR3pFXgSU=
+Modified: 637963154435571380
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\gu.yml
+ID: "30166588-b28a-44fd-a64e-672cf17debb4"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/gu
+Signature: Tiqcq9wezeq6HoGjX+llF8co8hUeFCZIdhSQpDH7dW8=
+Modified: 637963154435581823
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\il.yml
+ID: "4a4c2b05-187c-44bf-8e88-a7cf465979dc"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/il
+Signature: 0Q6pBwQUDirKPovMrO8G31Fbh4Ph9O8VXcNhF6tYsyU=
+Modified: 637963154435709448
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\im.yml
+ID: "e613ce01-bfe8-4330-82aa-dd83a0cb48af"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/im
+Signature: uWRrCr43X/f6mi1ZFmxU14cTCGhLYjvZlL6lO+fraVk=
+Modified: 637963154435709448
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\in.yml
+ID: "4fb5d38f-e2ba-4879-9eb2-5d32e87b32d7"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/in
+Signature: XQcohPrHNyfSlCcKwiW4XcHTfcVTHrkVFzRip47LFbs=
+Modified: 637963154435719447
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\io.yml
+ID: "c9f26c2f-45f2-47fb-978f-df58e58631a6"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/io
+Signature: 0DppxoByoiSXpT9/nML3Wsd4VjVZPbdiVuoQEQ31L3o=
+Modified: 637963154435729440
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\lc.yml
+ID: "cde1f760-f6b1-4f31-aec5-eb5fad43a2b8"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/lc
+Signature: +fDlxUKjWZZRa2pe5NOdpZ/j7yeQdjC2Kc1se84cYtM=
+Modified: 637963154435877314
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\li.yml
+ID: "cbd58646-0ea7-4c57-9a60-92fe92c32609"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/li
+Signature: N4rsixki1RMtWurCj1MtiSPhKcrIOc66T0lgGZi9AIc=
+Modified: 637963154435887295
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\lk.yml
+ID: "69dc15b9-7a61-46d8-b3d4-87fc3f6dfc64"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/lk
+Signature: z5W4C/71EXEkpIZNTo0DxFRGmdS3wX0C0TZLcRpbktw=
+Modified: 637963154435897314
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\lr.yml
+ID: "d867ef80-3ab7-47bd-9b5c-9c531bc06dec"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/lr
+Signature: WEdQ6Rt+5wX7itVk+W4jklHrx5MiqoqyJ9vFicETeTI=
+Modified: 637963154435897314
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mk.yml
+ID: "b5723560-2f3e-4e1e-9798-3095d87a2a7f"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mk
+Signature: aIJ90IVSh5pDtmhybk3GFAfLU9820/uctknhO9LBCLY=
+Modified: 637963154436002728
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\ml.yml
+ID: "1950bc0b-ea14-4cb1-9e7c-40a6db517917"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/ml
+Signature: Jv5xUYgysLYsaD4+h1xedeGAjyeYf9MWyDjiMJN9xXM=
+Modified: 637963154436010456
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mm.yml
+ID: "40fa1fec-85be-4c6c-b35d-ed2e5f23c122"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mm
+Signature: vsjgCSPvhmcZZTcEM9M8ajikSqD1Wut77BNfv43k8do=
+Modified: 637963154436020901
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\mn.yml
+ID: "efb2a166-1054-4d16-b658-65fc4f2bf038"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/mn
+Signature: g8b/QcKo/Lsl6V3w+foxVoTZSV4B//eBD0migMXU7ws=
+Modified: 637963154436030921
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\nl.yml
+ID: "1664ba1f-f459-4c5a-9709-b6f106c0b17b"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/nl
+Signature: RqCR1wLTk5SzjK/DrYReOihdeCAY0xN9BaQIZ0D2S50=
+Modified: 637963154436151491
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\no.yml
+ID: "63914c46-5cfe-477c-b8ab-8dc48d01bf63"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/no
+Signature: kYFXpO7vtn/JQeTsFfOTIyK69mp8fDy5QJYQDmiEPOM=
+Modified: 637963154436161483
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\np.yml
+ID: "614a9e6b-20c4-43de-aab8-f4bf7fd307f2"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/np
+Signature: Q8ax/IJ4Etndj8kvT67TyUaAuOREj64HUOdk5MzI4bE=
+Modified: 637963154436171477
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\nr.yml
+ID: "383175a8-ba20-453a-8dd5-b6d58bb429fc"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/nr
+Signature: lDunE3TL4S8v6wr4yxTo0qJfsBCtSjhtmIIlSFCdK8s=
+Modified: 637963154436171477
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\pk.yml
+ID: "839ba143-8f6a-4657-94f2-ab2b34e7c3d8"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/pk
+Signature: 3SxM2a5uTrOM6DDmWZmIwHk1AE6RSUlcXMaYS5eLVyM=
+Modified: 637963154436257162
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\pl.yml
+ID: "d3d81735-a66b-426b-b768-906456741d4c"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/pl
+Signature: ug3847Xuwl3OCTqZTussAJgDy34qBewYYrTaLz3Xvcc=
+Modified: 637963154436262162
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\pm.yml
+ID: "ec262221-d1d8-47f5-a1eb-85e560eaafb0"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/pm
+Signature: OVr+YeFraT+aTjnHk0GBPoF/AFMhFgdBC08xzW78SAM=
+Modified: 637963154436271407
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\pn.yml
+ID: "af688063-84eb-49ae-ad4e-cb39ae3c713e"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/pn
+Signature: 3RsQDfdwFYgTWIEIDuelW8c2HCx+BltdpzTu4bsPHmQ=
+Modified: 637963154436283992
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sb.yml
+ID: "f1a83f2d-ba0c-409a-a444-b7492e15d368"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sb
+Signature: XE0U9sjm/vPekIvs6RIpCcuiXgQkmjTa+SnEfk1uk+U=
+Modified: 637963154436376065
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sc.yml
+ID: "c61009bb-65a2-46a9-a352-8279a3213551"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sc
+Signature: /at6qsiLjSxB7/GoSJ6y3Dbbv7HKhSSvRnes+uAtHb4=
+Modified: 637963154436386066
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sd.yml
+ID: "3d2215e7-f65d-4b48-b843-cc17f9ba0ea5"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sd
+Signature: hUJylwNBxWpR2Ahh02MziCuVwsezZDANbHLqdvI5wC4=
+Modified: 637963154436386066
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\se.yml
+ID: "a3ca23c9-3aee-40c6-966c-4dbc8d82bcf0"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/se
+Signature: Wpv9UATQlIQicEYYAro7apNxu8OlPh14E0kyPLnBt2A=
+Modified: 637963154436396062
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sv.yml
+ID: "eeaec951-a2f8-455c-8a03-48cc4ff226c1"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sv
+Signature: Y9eCwTP2Tf5r8Zfnyu6VS7kul2+f9SlOqpo9nRETjHQ=
+Modified: 637963154436492906
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sx.yml
+ID: "5ae03dbc-1eec-4320-8fa1-e9cd68cfa154"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sx
+Signature: ESBry8vuT0nrFw5Bd/t1m7zN/xLfH3vTQIbXZjhwNn8=
+Modified: 637963154436502936
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sy.yml
+ID: "1f3fba63-78d8-4d6f-bd0d-2b0850bea76f"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sy
+Signature: irEQ6j8xj4hHm0KD8KHblELTz7alQHGj/S5P2gBXLYc=
+Modified: 637963154436512920
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\sz.yml
+ID: "24696796-ab4a-4b86-b1ad-d4395f5f0f43"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/sz
+Signature: ujXkJNqNze18NNuHWRIwp04SxZQeowOSgxv0nzOLNI0=
+Modified: 637963154436522915
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\um.yml
+ID: "e90b8d93-ea7c-408b-a479-71c71d83502d"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/um
+Signature: Pn75q9XxP0dMq2/rRbMb/UnqRh3A4ZEzxm2/KCEK5D4=
+Modified: 637963154436677136
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\us.yml
+ID: "e04629d8-bf9e-4fd3-a82a-68514069f28f"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/us
+Signature: HGxHTKzBQskL1IiyK7vDlCuHJ6+X7M1o80CPwAbG24Y=
+Modified: 637963154436687441
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\uy.yml
+ID: "39aa3453-eabf-4659-9390-e331b2291408"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/uy
+Signature: jHMwW6z7Y3cvb2c/Avijhg2HabQU6vWu6ltCDNLfgko=
+Modified: 637963154436697435
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Project\StandBlog\serialization\MediaLibrary-Themes\StandBlog\Site theme name\images\flags\uz.yml
+ID: "3afdf60b-e1fc-4d51-995d-27bc34ee5b86"
+Parent: "ed05a375-7011-4464-9da6-6f7f5e04af18"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/images/flags/uz
+Signature: uxCNRqxAv6CcqPws9lVyEPJvlMVF4MLv50i8yEoAhqM=
+Modified: 637963154436697435

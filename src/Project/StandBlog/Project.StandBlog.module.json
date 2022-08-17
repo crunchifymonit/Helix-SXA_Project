@@ -1,0 +1,20 @@
+{
+	"namespace": "Project.StandBlog",
+	"references": [ "*Feature.*" ],
+	"items": {
+		"includes": [
+			{
+				"name": "Content-StandBlog",
+				"path": "/sitecore/content/StandBlog/StandBlog",
+				"scope": "ItemAndDescendants",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "MediaLibrary-Themes",
+				"path": "/sitecore/media library/Themes/StandBlog/StandBlog",
+				"scope": "ItemAndDescendants",
+				"allowedPushOperations": "createUpdateAndDelete"
+			}
+		]
+	}
+}

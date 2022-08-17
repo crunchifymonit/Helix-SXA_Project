@@ -1,0 +1,73 @@
+{
+	"namespace": "Foundation.HelixSetupSolution",
+	"items": {
+    "includes": [
+      {
+        "name": "Templates-Project",
+        "path": "/sitecore/templates/Project/StandBlog",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "Templates-Feature",
+        "path": "/sitecore/templates/Feature/StandBlog",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "Templates-Foundation",
+        "path": "/sitecore/templates/Foundation/StandBlog",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "Branch-Project",
+        "path": "/sitecore/templates/Branches/Project/StandBlog",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "Branch-Feature",
+        "path": "/sitecore/templates/Branches/Feature/StandBlog",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "Branch-Foundation",
+        "path": "/sitecore/templates/Branches/Foundation/StandBlog",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "Rendering-Feature",
+        "path": "/sitecore/layout/Renderings/Feature/StandBlog",
+        "scope": "SingleItem",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "System-settings-Feature",
+        "path": "/sitecore/system/Settings/Feature/StandBlog",
+        "scope": "SingleItem",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "Media-librabry Project",
+        "path": "/sitecore/system/Settings/Project/HelixSetupSolution",
+        "scope": "SingleItem",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "StandBlog Content",
+        "path": "/sitecore/content/StandBlog",
+        "scope": "SingleItem",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "StandBlog Themes",
+        "path": "/sitecore/media library/Themes/StandBlog",
+        "scope": "SingleItem",
+        "allowedPushOperations": "createUpdateAndDelete"
+      }
+    ]
+	}
+}

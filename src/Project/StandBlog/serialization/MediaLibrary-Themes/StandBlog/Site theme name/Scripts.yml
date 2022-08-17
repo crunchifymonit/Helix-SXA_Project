@@ -1,0 +1,27 @@
+﻿---
+ID: "d36a4f96-b2fb-40e2-b30e-eb3d191db876"
+Parent: "7650efa8-7120-4ab0-bcca-2e73e3dfe0bc"
+Template: "536ef8ae-e6df-4aed-bd84-1f18de8cebf7"
+Path: /sitecore/media library/Themes/StandBlog/StandBlog/Site theme name/Scripts
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/folder.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180306T125740Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da1df4e5-c3f3-4ba8-b209-08d618b0e0f1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220816T095829Z

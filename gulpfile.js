@@ -1,3 +1,4 @@
+/// <binding BeforeBuild='default' />
 var gulp = require("gulp");
 var msbuild = require("gulp-msbuild");
 var debug = require("gulp-debug");

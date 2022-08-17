@@ -5,18 +5,48 @@ VisualStudioVersion = 15.0.28307.2092
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{BFB14EBF-9195-4212-BE33-BA7B9E07D1E7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{56A51E11-86D1-48F4-8751-196096B8D63B}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{5E80DF64-CBF8-4D60-B36B-053BF5D520BD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StandBlog", "StandBlog", "{D2171B3E-41AA-4BA8-9F57-A1D862098430}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{AF6A2564-8520-4101-A7AC-A7E183A31E2A}"
+	ProjectSection(SolutionItems) = preProject
+		gulp-config.js = gulp-config.js
+		gulpfile.js = gulpfile.js
+		package.json = package.json
+		sitecore.json = sitecore.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{F10B3AE1-610F-47D1-BB77-873BF92AF5BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StandBlog", "StandBlog", "{F16D3979-2A71-4C1C-AE56-301C80DF3CD0}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\SXA-Project-feature-SC-InitialSetup\SitecoreShades\src\Project\StandBlog\Project.StandBlog.module.json = ..\..\..\Downloads\SXA-Project-feature-SC-InitialSetup\SitecoreShades\src\Project\StandBlog\Project.StandBlog.module.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixSetupSolution.Project.StandBlog", "src\Project\StandBlog\code\HelixSetupSolution.Project.StandBlog.csproj", "{893B9E4F-62F0-49DB-9F10-CE06ABC1E3A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serilization", "Serilization", "{C508725D-DB60-4760-8D2A-C942B2225EEF}"
+	ProjectSection(SolutionItems) = preProject
+		src\Foundation\Serilization\Foundation.HelixSetupSolution.module.json = src\Foundation\Serilization\Foundation.HelixSetupSolution.module.json
+	EndProjectSection
 EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{893B9E4F-62F0-49DB-9F10-CE06ABC1E3A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893B9E4F-62F0-49DB-9F10-CE06ABC1E3A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893B9E4F-62F0-49DB-9F10-CE06ABC1E3A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893B9E4F-62F0-49DB-9F10-CE06ABC1E3A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{D2171B3E-41AA-4BA8-9F57-A1D862098430} = {56A51E11-86D1-48F4-8751-196096B8D63B}
+		{F16D3979-2A71-4C1C-AE56-301C80DF3CD0} = {F10B3AE1-610F-47D1-BB77-873BF92AF5BD}
+		{893B9E4F-62F0-49DB-9F10-CE06ABC1E3A5} = {F16D3979-2A71-4C1C-AE56-301C80DF3CD0}
+		{C508725D-DB60-4760-8D2A-C942B2225EEF} = {BFB14EBF-9195-4212-BE33-BA7B9E07D1E7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5FDE6175-1207-4846-BD50-DDEF418FC7F4}

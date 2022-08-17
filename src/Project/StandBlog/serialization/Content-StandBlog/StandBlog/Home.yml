@@ -5,6 +5,9 @@ Template: "001f7417-417d-4ba6-b741-0ddd2fedaa1b"
 Path: /sitecore/content/StandBlog/StandBlog/Home
 BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
 SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{1D759479-0A8F-4995-BADF-8339AF28B4AC}"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{92EB9EFB-88D4-4089-82BE-AAD92D4FA24E}"
@@ -29,7 +32,7 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e1ac833f-7f3d-41e5-80f2-1525177379de"
+      Value: "3b1843ab-2416-4348-a7e5-51d6e636f2cd"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -39,4 +42,4 @@ Languages:
       Value: StandBlog
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220816T095841Z
+      Value: 20220817T112411Z

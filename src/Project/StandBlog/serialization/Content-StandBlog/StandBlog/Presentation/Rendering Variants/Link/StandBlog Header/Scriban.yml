@@ -7,7 +7,8 @@ SharedFields:
 - ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
   Hint: Template
   Value: |
-    <a class="navbar-brand" href="index.html"><h2>Stand Blog<em>.</em></h2></a>
+    {{ linkInfo = (sc_link_info i_item 'link') }}
+    <a class="navbar-brand" href="{{ linkInfo.url}}"><h2>{{ linkInfo.text}}<em>.</em></h2></a>
 Languages:
 - Language: en
   Versions:
@@ -26,11 +27,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "84092867-dfa1-4c2f-9145-c456da96f86d"
+      Value: "a90be41c-8bfa-493a-80d6-02e5f7f3088b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220818T061117Z
+      Value: 20220819T054111Z

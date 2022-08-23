@@ -13,17 +13,17 @@ Languages:
       Value: 20220817T105643Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Page 1
+      Value: HOME
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a739f48f-9410-4120-bcfe-38e8e418d723"
+      Value: "bd20a98a-b8cd-47ac-b36d-1baef28eb02d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "c1e7056a-7737-4923-9df8-1b8f2dceea6c"
       Hint: Title
-      Value: Page 1
+      Value: Home
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220817T105643Z
+      Value: 20220819T071256Z

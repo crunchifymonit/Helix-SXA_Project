@@ -5,19 +5,19 @@
       {
         "name": "Templates-Project",
         "path": "/sitecore/templates/Project/StandBlog",
-        "scope": "ItemAndDescendants",
+        "scope": "SingleItem",
         "allowedPushOperations": "createUpdateAndDelete"
       },
       {
         "name": "Templates-Feature",
         "path": "/sitecore/templates/Feature/StandBlog",
-        "scope": "ItemAndDescendants",
+        "scope": "SingleItem",
         "allowedPushOperations": "createUpdateAndDelete"
       },
       {
         "name": "Templates-Foundation",
         "path": "/sitecore/templates/Foundation/StandBlog",
-        "scope": "ItemAndDescendants",
+        "scope": "SingleItem",
         "allowedPushOperations": "createUpdateAndDelete"
       },
       {

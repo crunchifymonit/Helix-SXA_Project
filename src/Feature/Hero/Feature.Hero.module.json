@@ -1,0 +1,20 @@
+{
+	"namespace": "Feature.Hero",
+	"references": [ "*Foundation.*" ],
+	"items": {
+    "includes": [
+      {
+        "name": "Hero-Project",
+        "path": "/sitecore/templates/Feature/StandBlog/Hero",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "Hero-Branches",
+        "path": "/sitecore/templates/Branches/Feature/StandBlog/Hero",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      }
+    ]
+	}
+}

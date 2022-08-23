@@ -1,0 +1,14 @@
+{
+	"namespace": "Feature.Blog",
+	"references": [ "*Foundation.*" ],
+	"items": {
+    "includes": [
+      {
+        "name": "Blog-Project",
+        "path": "/sitecore/templates/Feature/StandBlog/Blog",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      }
+    ]
+	}
+}

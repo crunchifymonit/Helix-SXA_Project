@@ -1,0 +1,71 @@
+﻿---
+ID: "6edde04a-5280-4a7c-b9ba-284870728245"
+Parent: "d02dae05-f459-4c58-909e-6e23f25c4e07"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/StandBlog/StandBlog/Presentation/Rendering Variants/Search Results/Home Scope blog/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    <div class="blog-post">
+                        <div class="blog-thumb">
+                         {{ sc_field i_item 'Image' }}
+                        </div>
+                        <div class="down-content">
+                          <span>{{ sc_field i_item 'Title' }}</span>
+                          <a href="post-details.html"><h4>{{ sc_field i_item 'SubTitle' }}</h4></a>
+                          <ul class="post-info">
+                            <li><a>{{ sc_field i_item 'Author' }}</a></li>
+                            
+                            {{ datestring =sc_field i_item 'Date'}}
+                            <li><a>{{ date.parse datestring | date.to_string '%b %d, %Y'}}</a></li>
+                          </ul>
+                          <p>{{ sc_field i_item 'Details' }}</p>
+                          <div class="post-options">
+                            <div class="row">
+                              <div class="col-6">
+                                <ul class="post-tags">
+                                  <li><i class="fa fa-tags"></i></li>
+                                  {{ for i_child in (sc_followmany i_item 'BlogTag') }}
+    
+                                  <li><a href="#">{{i_child.Title}}</a></li>
+                                  {{ end }}
+                                </ul>
+                              </div>
+                              <div class="col-6">
+                                <ul class="post-share">
+                                  <li><i class="fa fa-share-alt"></i></li>
+                                  {{ for i_child in (sc_followmany i_item 'BlogTag') }}
+                                  <li><a href="#">{{i_child.Title}}</a></li>
+    {{end}}                            </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220822T185718Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1bce83a5-243b-4efd-85c2-55fd075fe401"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220823T045424Z

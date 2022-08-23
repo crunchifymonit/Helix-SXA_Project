@@ -1,0 +1,23 @@
+﻿---
+ID: "5ba99ee0-2905-4716-b4ea-2d49d35472dd"
+Parent: "fa80f8d3-2a25-4836-8b59-1d4e535db8c4"
+Template: "8978f9d0-defa-4561-a9e6-9499a8befbf8"
+Path: /sitecore/content/StandBlog/StandBlog/Data/Blog Card List
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220822T181217Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e86e7280-c7a5-4d8d-9c79-4b65b9876b56"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220822T181217Z

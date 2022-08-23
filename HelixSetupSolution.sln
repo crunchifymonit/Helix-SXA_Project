@@ -33,6 +33,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScribanExtension", "Scriban
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation.ScribanExtension", "src\Foundation\ScribanExtension\code\Foundation.ScribanExtension.csproj", "{0FCEBBE7-08CB-496E-9A87-542B7D2AA7BE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{711B2E75-A7DD-430C-BE42-8308437D823D}"
+	ProjectSection(SolutionItems) = preProject
+		src\Project\Website\Project.Website.module.json = src\Project\Website\Project.Website.module.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Website", "src\Project\Website\code\Project.Website.csproj", "{029605AB-1240-47B0-91A2-C8F718A94D75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Blog", "Blog", "{185DF3B5-5A27-46A9-BB2D-67E982670E6E}"
+	ProjectSection(SolutionItems) = preProject
+		src\Feature\Blog\Feature.Blog.module.json = src\Feature\Blog\Feature.Blog.module.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hero", "Hero", "{31D6888A-DD3A-4760-AE0A-52C5661A7340}"
+	ProjectSection(SolutionItems) = preProject
+		src\Feature\Hero\Feature.Hero.module.json = src\Feature\Hero\Feature.Hero.module.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feature.Blog", "src\Feature\Blog\code\Feature.Blog.csproj", "{697F0EFA-F6DE-4199-A9E2-3A650F890E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feature.Hero", "src\Feature\Hero\code\Feature.Hero.csproj", "{B06F814A-4C40-4DE0-98CA-144CEDAF06C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +68,18 @@ Global
 		{0FCEBBE7-08CB-496E-9A87-542B7D2AA7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FCEBBE7-08CB-496E-9A87-542B7D2AA7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FCEBBE7-08CB-496E-9A87-542B7D2AA7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029605AB-1240-47B0-91A2-C8F718A94D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029605AB-1240-47B0-91A2-C8F718A94D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029605AB-1240-47B0-91A2-C8F718A94D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029605AB-1240-47B0-91A2-C8F718A94D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697F0EFA-F6DE-4199-A9E2-3A650F890E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697F0EFA-F6DE-4199-A9E2-3A650F890E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697F0EFA-F6DE-4199-A9E2-3A650F890E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697F0EFA-F6DE-4199-A9E2-3A650F890E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06F814A-4C40-4DE0-98CA-144CEDAF06C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06F814A-4C40-4DE0-98CA-144CEDAF06C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06F814A-4C40-4DE0-98CA-144CEDAF06C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06F814A-4C40-4DE0-98CA-144CEDAF06C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -57,9 +90,15 @@ Global
 		{C508725D-DB60-4760-8D2A-C942B2225EEF} = {BFB14EBF-9195-4212-BE33-BA7B9E07D1E7}
 		{E6C5FEF0-279C-4F43-83E0-7BFC62D2C02E} = {BFB14EBF-9195-4212-BE33-BA7B9E07D1E7}
 		{0FCEBBE7-08CB-496E-9A87-542B7D2AA7BE} = {E6C5FEF0-279C-4F43-83E0-7BFC62D2C02E}
+		{711B2E75-A7DD-430C-BE42-8308437D823D} = {F10B3AE1-610F-47D1-BB77-873BF92AF5BD}
+		{029605AB-1240-47B0-91A2-C8F718A94D75} = {711B2E75-A7DD-430C-BE42-8308437D823D}
+		{185DF3B5-5A27-46A9-BB2D-67E982670E6E} = {5E80DF64-CBF8-4D60-B36B-053BF5D520BD}
+		{31D6888A-DD3A-4760-AE0A-52C5661A7340} = {5E80DF64-CBF8-4D60-B36B-053BF5D520BD}
+		{697F0EFA-F6DE-4199-A9E2-3A650F890E82} = {185DF3B5-5A27-46A9-BB2D-67E982670E6E}
+		{B06F814A-4C40-4DE0-98CA-144CEDAF06C5} = {31D6888A-DD3A-4760-AE0A-52C5661A7340}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
 		SolutionGuid = {5FDE6175-1207-4846-BD50-DDEF418FC7F4}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
 	EndGlobalSection
 EndGlobal

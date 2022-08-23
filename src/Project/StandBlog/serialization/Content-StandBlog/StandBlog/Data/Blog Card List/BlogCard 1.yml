@@ -1,0 +1,60 @@
+﻿---
+ID: "9d01868d-18ee-4163-907c-d745b43b992b"
+Parent: "5ba99ee0-2905-4716-b4ea-2d49d35472dd"
+Template: "6c1999c1-20fd-4896-beb4-4bb8a1084af0"
+Path: /sitecore/content/StandBlog/StandBlog/Data/Blog Card List/BlogCard 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220822T181242Z
+    - ID: "4e22d72d-cdfe-4b5d-bf49-75ba4b08bd76"
+      Hint: Title
+      Value: LIFESTYLE
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "569c7a13-1a5f-49bc-a060-6ee73483fb1c"
+      Hint: Author
+      Value: Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7fd6df77-58f6-41f7-9ce8-05a3fac17fb0"
+      Hint: Date
+      Value: 20220822T181700Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "62487a59-93a2-4582-be5a-d5db55809a5e"
+    - ID: "9bad9f33-9e44-4b00-a989-921a6efe13b9"
+      Hint: Image
+      Value: |
+        <image mediaid="{AEA25AFA-6D0C-49CF-8B72-CEE84B4911AD}" alt="image" height="" width="" hspace="" vspace="" />
+    - ID: "a6512052-8af2-4bae-bd6d-929162f22cb1"
+      Hint: SubTitle
+      Value: Best Template Website For HTML CSS
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ced3ff13-ff5b-4c04-ba1a-c23b792f430c"
+      Hint: SocialTag
+      Value: |
+        {92AFF066-89A3-42F1-8406-5DED7D88B605}
+        {807C7699-8D09-4FDD-9953-BB796E30639F}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220822T191634Z
+    - ID: "f6c3d6ff-6a28-469a-b5d0-6339672244d1"
+      Hint: Details
+      Value: "Stand Blog is a free HTML CSS template for your CMS theme. You can easily adapt or customize it for any kind of CMS or website builder. You are allowed to use it for your business. You are NOT allowed to re-distribute the template ZIP file on any template collection site for the download purpose. Contact TemplateMo for more info. Thank you."
+    - ID: "fca68ef5-b186-4bda-96c9-f2408b40a392"
+      Hint: BlogTag
+      Value: |
+        {375B7542-B883-492B-8009-45636C062313}
+        {21DEA1DC-FEC9-49F2-A969-3BC73C3CB8A2}

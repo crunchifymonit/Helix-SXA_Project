@@ -1,6 +1,33 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Blog\BlogCard.yml
+ID: "6c1999c1-20fd-4896-beb4-4bb8a1084af0"
+Parent: "c6fbefc1-6a78-4445-aa7b-892909f6e8c1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/StandBlog/Blog/BlogCard
+Signature: ILKbcb70sqKermGS/V5giAeXOSuSVIqh+bVGVLfTR98=
+Modified: 637968276673953282
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero.yml
+ID: "6e082a34-4b62-4ff5-af89-212baec5d9a0"
+Parent: "0e0cf4b7-de3a-403b-bb1d-208ef69d628e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/StandBlog/Hero
+Signature: QlIYMTxhLoOSbCccz6AlaPCWx4+5vG1NHY3GSNnhApQ=
+Modified: 637968276673953282
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Blog.yml
+ID: "c6fbefc1-6a78-4445-aa7b-892909f6e8c1"
+Parent: "0e0cf4b7-de3a-403b-bb1d-208ef69d628e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/StandBlog/Blog
+Signature: /ZsmAVgAGKCgncGwPV3ojeyL5iiI0SrYm3g7NLMTd8I=
+Modified: 637968276673953282
+---
+File: |
   C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog.yml
 ID: "0e0cf4b7-de3a-403b-bb1d-208ef69d628e"
 Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
@@ -8,3 +35,318 @@ Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
 Path: /sitecore/templates/Feature/StandBlog
 Signature: cJQR8txQYgaiFFWu9Zp374DqpctxT7xLP1CMkXlK6lk=
 Modified: 637963154429574009
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Blog\BlogFolder\__Standard Values.yml
+ID: "b675ebd2-4cc1-4093-a139-83afedd4b163"
+Parent: "8978f9d0-defa-4561-a9e6-9499a8befbf8"
+Template: "8978f9d0-defa-4561-a9e6-9499a8befbf8"
+Path: /sitecore/templates/Feature/StandBlog/Blog/BlogFolder/__Standard Values
+Signature: l0DDfjEI7CsnRNajWwlSI+6YjRIcYyBJ0UWxttkm1Sg=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel Branch.yml
+ID: "2b850b28-6ac4-45b5-a5b1-76833de7750a"
+Parent: "6e082a34-4b62-4ff5-af89-212baec5d9a0"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel Branch
+Signature: WvNAqfVlID1vnIH1F3yMqACG9BXTNB7vTmzCuur+hpo=
+Modified: 637968276673953282
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\Rendering Parameters.yml
+ID: "4e0a151d-1e8f-4be6-a899-0f538f811685"
+Parent: "6e082a34-4b62-4ff5-af89-212baec5d9a0"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/StandBlog/Hero/Rendering Parameters
+Signature: V+2S/VGVF93KA8StyWwq/fG4HZxnPUr6junO283vBwU=
+Modified: 637968276673953282
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Blog\BlogFolder.yml
+ID: "8978f9d0-defa-4561-a9e6-9499a8befbf8"
+Parent: "c6fbefc1-6a78-4445-aa7b-892909f6e8c1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/StandBlog/Blog/BlogFolder
+Signature: nms7zahijF2LVkPGaETbND4D9ql6nPm1lPqomGXWOgA=
+Modified: 637968276673953282
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel Slide\Slide.yml
+ID: "4f84619b-2b35-4d1a-9f93-c05152af6d07"
+Parent: "f9c51fe9-188c-4b1c-b954-b79c8365140c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel Slide/Slide
+Signature: TCSlZxEdbLzRshmc2Ll1JeCos8p1XZRqWooOVqj2/VM=
+Modified: 637968276674120318
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel Slide.yml
+ID: "f9c51fe9-188c-4b1c-b954-b79c8365140c"
+Parent: "6e082a34-4b62-4ff5-af89-212baec5d9a0"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel Slide
+Signature: JWfmIiTuZXNY/UJMGPdwDW/AFbJO5i685gKEmJOrdcA=
+Modified: 637968276674120318
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel Folder.yml
+ID: "c75879b6-3bd4-44fe-b975-37386ff43fb2"
+Parent: "6e082a34-4b62-4ff5-af89-212baec5d9a0"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel Folder
+Signature: JDNhJT8UIfj8b1Jh/wWmLvrIbOeXp4BmwbJIc8C6od0=
+Modified: 637968276674115750
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel\__Standard Values.yml
+ID: "798be5be-5f69-4b30-b124-d0c3479c1cc1"
+Parent: "4f783143-c7ea-4721-85b5-7916f16c40ce"
+Template: "4f783143-c7ea-4721-85b5-7916f16c40ce"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel/__Standard Values
+Signature: 0izMmQ5i6Axbtwlh91t/3Q96t2LBzSHNRSihrqODJAs=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Blog\BlogCard\Blog Card Data\BlogTag.yml
+ID: "fca68ef5-b186-4bda-96c9-f2408b40a392"
+Parent: "c46fa137-12ba-4f94-a4fe-ea2e1574d472"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Blog/BlogCard/Blog Card Data/BlogTag
+Signature: Mm8mvQGNQb+IKb9pJlNrcVr3EdVMMqQP/WZFURrfLeA=
+Modified: 637968276674277167
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Blog\BlogCard\Blog Card Data.yml
+ID: "c46fa137-12ba-4f94-a4fe-ea2e1574d472"
+Parent: "6c1999c1-20fd-4896-beb4-4bb8a1084af0"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/StandBlog/Blog/BlogCard/Blog Card Data
+Signature: 7jsxCtVF4oStOPb1ElzV2pwAQmyhz6BJ1XPvrCwaw9M=
+Modified: 637968276674120318
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel.yml
+ID: "4f783143-c7ea-4721-85b5-7916f16c40ce"
+Parent: "6e082a34-4b62-4ff5-af89-212baec5d9a0"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel
+Signature: qxY21L71fjaAPuzMvHpCs82JlnElljf50LmiYvKoQRc=
+Modified: 637968276674120318
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel Slide\__Standard Values.yml
+ID: "93ea1f68-ae0a-4609-9bf1-13a9f42a06c9"
+Parent: "f9c51fe9-188c-4b1c-b954-b79c8365140c"
+Template: "f9c51fe9-188c-4b1c-b954-b79c8365140c"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel Slide/__Standard Values
+Signature: 17sEqdKlxI/Y2ABcWKbfsVttt5isKggommGT8d55M0g=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Blog\BlogCard\Blog Card Data\Image.yml
+ID: "9bad9f33-9e44-4b00-a989-921a6efe13b9"
+Parent: "c46fa137-12ba-4f94-a4fe-ea2e1574d472"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Blog/BlogCard/Blog Card Data/Image
+Signature: p7Bh/oq7z6OlQ6QtVmc4m0XxlEVsKPkOczQepkepXaY=
+Modified: 637968276674120318
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel Folder\__Standard Values.yml
+ID: "059eea1a-94a7-416e-9c25-de3ae61c7a64"
+Parent: "c75879b6-3bd4-44fe-b975-37386ff43fb2"
+Template: "c75879b6-3bd4-44fe-b975-37386ff43fb2"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel Folder/__Standard Values
+Signature: AuozbKWOvMrzxd7EgMDXvcZjC078adkMDj3HfI/ok2Y=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\Rendering Parameters\StandBlogCarousel.yml
+ID: "218a1e41-a1f0-4533-8d00-6aa2441ad77d"
+Parent: "4e0a151d-1e8f-4be6-a899-0f538f811685"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/StandBlog/Hero/Rendering Parameters/StandBlogCarousel
+Signature: L/fTeL+4AeGvthDLFhAxAEkEyPRYYCAfPeBfoeskxxQ=
+Modified: 637968276674120318
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Blog\BlogCard\Blog Card Data\Date.yml
+ID: "7fd6df77-58f6-41f7-9ce8-05a3fac17fb0"
+Parent: "c46fa137-12ba-4f94-a4fe-ea2e1574d472"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Blog/BlogCard/Blog Card Data/Date
+Signature: LSrN/aez6PSXWi7FGUK2RqS+DwaO9powP/99HG26M6E=
+Modified: 637968276674120318
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel Branch\_name\Slide2.yml
+ID: "8b2a1200-5cb6-4c15-bc91-733fca1e634b"
+Parent: "47522cf9-4598-4225-af0e-f9e9a728b612"
+Template: "f9c51fe9-188c-4b1c-b954-b79c8365140c"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel Branch/$name/Slide2
+Signature: h7TkFXW03v+b+naxn9+wbGhp6NY81Kk2l8Qy69eAorA=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel Slide\Slide\SlideAuthor.yml
+ID: "737dc6ef-6af8-4570-94e6-fa70ced1ae40"
+Parent: "4f84619b-2b35-4d1a-9f93-c05152af6d07"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel Slide/Slide/SlideAuthor
+Signature: wARQy4ko9EQSKsp8XFWPqV8HCDqawuGOu/ofXuf4IU8=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel Branch\_name.yml
+ID: "47522cf9-4598-4225-af0e-f9e9a728b612"
+Parent: "2b850b28-6ac4-45b5-a5b1-76833de7750a"
+Template: "4f783143-c7ea-4721-85b5-7916f16c40ce"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel Branch/$name
+Signature: UcA2f4JYu89DhqaPcqDQmjaNRG2ypwBtwbTEKmvLbf4=
+Modified: 637968276674120318
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Blog\BlogCard\Blog Card Data\SocialTag.yml
+ID: "ced3ff13-ff5b-4c04-ba1a-c23b792f430c"
+Parent: "c46fa137-12ba-4f94-a4fe-ea2e1574d472"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Blog/BlogCard/Blog Card Data/SocialTag
+Signature: 7AnFoGUSXwFYreE9YcfM+p8abjdi+aRj6r9dXmrXytE=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel Slide\Slide\SlideDate.yml
+ID: "038b407f-8190-439a-b08f-1c0f220095cf"
+Parent: "4f84619b-2b35-4d1a-9f93-c05152af6d07"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel Slide/Slide/SlideDate
+Signature: S+UTFnMdprwFjvqFROynjlATjKyNF96c9hL9FiyeGX0=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel Slide\Slide\SlideText.yml
+ID: "26299f4a-a358-4435-9497-224c99e0d30e"
+Parent: "4f84619b-2b35-4d1a-9f93-c05152af6d07"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel Slide/Slide/SlideText
+Signature: /fkcILF087MCytERI/BYxYLLU/B8CU1Z4NFIse4USBI=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Blog\BlogCard\Blog Card Data\Author.yml
+ID: "569c7a13-1a5f-49bc-a060-6ee73483fb1c"
+Parent: "c46fa137-12ba-4f94-a4fe-ea2e1574d472"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Blog/BlogCard/Blog Card Data/Author
+Signature: GVZsxM2Kjw7bpmMokkVB2ZBJVhFz99hlCEPDEgBXTxc=
+Modified: 637968276674120318
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\Rendering Parameters\StandBlogCarousel\Carousel Control.yml
+ID: "abbd6d91-8c44-484e-8d81-691c8a97ea64"
+Parent: "218a1e41-a1f0-4533-8d00-6aa2441ad77d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/StandBlog/Hero/Rendering Parameters/StandBlogCarousel/Carousel Control
+Signature: O7ce2WqorSi1eoK787+zIZIu/qUFPr9hiRjd/zclAMc=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\Rendering Parameters\StandBlogCarousel\Carousel Control\Transition.yml
+ID: "8f227fde-06f0-4b59-bc2d-ca3d2bd06190"
+Parent: "abbd6d91-8c44-484e-8d81-691c8a97ea64"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Hero/Rendering Parameters/StandBlogCarousel/Carousel Control/Transition
+Signature: MKAYSyoR6hKBWzgOzVFzjF8ZYOl59Wxa0GhNVW6yHj0=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\Rendering Parameters\StandBlogCarousel\Carousel Control\Timeout.yml
+ID: "fb05a80d-f6ff-42ed-8d9c-7731fcbb70f9"
+Parent: "abbd6d91-8c44-484e-8d81-691c8a97ea64"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Hero/Rendering Parameters/StandBlogCarousel/Carousel Control/Timeout
+Signature: SUhtQkOX73e9IDi/OUO4pax5zdjD8wdhiqD3lF5UxJw=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Blog\BlogCard\Blog Card Data\Details.yml
+ID: "f6c3d6ff-6a28-469a-b5d0-6339672244d1"
+Parent: "c46fa137-12ba-4f94-a4fe-ea2e1574d472"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Blog/BlogCard/Blog Card Data/Details
+Signature: C5n+Yrb6QcqA62tJABU5qTpmcuVavbnumgTs7oJrXAs=
+Modified: 637968276674277167
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\Rendering Parameters\StandBlogCarousel\Carousel Control\Navigation.yml
+ID: "f75643cf-d527-4826-b4a6-2068a2d8aa28"
+Parent: "abbd6d91-8c44-484e-8d81-691c8a97ea64"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Hero/Rendering Parameters/StandBlogCarousel/Carousel Control/Navigation
+Signature: Q3telOzVOlJAbnmcZAexWNhOU3tF7iTHPpQ2+7IBw1A=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Blog\BlogCard\Blog Card Data\SubTitle.yml
+ID: "a6512052-8af2-4bae-bd6d-929162f22cb1"
+Parent: "c46fa137-12ba-4f94-a4fe-ea2e1574d472"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Blog/BlogCard/Blog Card Data/SubTitle
+Signature: V2wjVfW/loiIsYkoAlQkNjMoEq3WHYNFEFj8emL9AdY=
+Modified: 637968276674120318
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\Rendering Parameters\StandBlogCarousel\Carousel Control\PauseOnHover.yml
+ID: "47e7589b-468d-4915-ae25-d0ccd46b11a3"
+Parent: "abbd6d91-8c44-484e-8d81-691c8a97ea64"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Hero/Rendering Parameters/StandBlogCarousel/Carousel Control/PauseOnHover
+Signature: L7SIuqGxgHNQJOiqx0olkaskGsW+rso7Qs9uCOuB0E0=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Blog\BlogCard\Blog Card Data\Title.yml
+ID: "4e22d72d-cdfe-4b5d-bf49-75ba4b08bd76"
+Parent: "c46fa137-12ba-4f94-a4fe-ea2e1574d472"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Blog/BlogCard/Blog Card Data/Title
+Signature: yuWhmjK+YAIZWEkQAtQkfDEJVZAVAFiYtV/l6khlN4o=
+Modified: 637968276674120318
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\Rendering Parameters\StandBlogCarousel\__Standard Values.yml
+ID: "3787778a-2e91-4abd-b5b5-bdce40fa089b"
+Parent: "218a1e41-a1f0-4533-8d00-6aa2441ad77d"
+Template: "218a1e41-a1f0-4533-8d00-6aa2441ad77d"
+Path: /sitecore/templates/Feature/StandBlog/Hero/Rendering Parameters/StandBlogCarousel/__Standard Values
+Signature: vtjFE70UDQcWfqZ+nCD4ET+HPpofL6nnvZ6HGUrdRNY=
+Modified: 637968276674449418
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel Branch\_name\Slide1.yml
+ID: "c7ecd1f2-effc-4a7b-8d95-5ab10b9d1d6c"
+Parent: "47522cf9-4598-4225-af0e-f9e9a728b612"
+Template: "f9c51fe9-188c-4b1c-b954-b79c8365140c"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel Branch/$name/Slide1
+Signature: +4UDKZk1jXDyjjXsYSV+vq6lfjs9leWha6uOUJroATg=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel Slide\Slide\SlideImage.yml
+ID: "c0bed5b4-289e-460a-a867-fdd165fccf41"
+Parent: "4f84619b-2b35-4d1a-9f93-c05152af6d07"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel Slide/Slide/SlideImage
+Signature: aLHB78CtDvjUxk/BBf4LpObwjil4YMDWSxxzqphdZck=
+Modified: 637968276674292265
+---
+File: |
+  C:\Users\mongupta3\Documents\HelixTest\HelixSetupSolution\src\Foundation\Serilization\serialization\Templates-Feature\StandBlog\Hero\StandBlogCarousel Slide\Slide\SlideSubTitle.yml
+ID: "2e4d5956-7fa2-4dcc-ab9f-e86edb73a41b"
+Parent: "4f84619b-2b35-4d1a-9f93-c05152af6d07"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/StandBlog/Hero/StandBlogCarousel Slide/Slide/SlideSubTitle
+Signature: YM0RMZ0dE8XSBSA0jajuL4tIckAxnxJiEH2J/Uul7gs=
+Modified: 637968276674292265

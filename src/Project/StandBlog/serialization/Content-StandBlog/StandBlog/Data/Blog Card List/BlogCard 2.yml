@@ -1,0 +1,60 @@
+﻿---
+ID: "4138bf89-c84c-4c4d-992a-c60e4d29f027"
+Parent: "5ba99ee0-2905-4716-b4ea-2d49d35472dd"
+Template: "6c1999c1-20fd-4896-beb4-4bb8a1084af0"
+Path: /sitecore/content/StandBlog/StandBlog/Data/Blog Card List/BlogCard 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220822T181302Z
+    - ID: "4e22d72d-cdfe-4b5d-bf49-75ba4b08bd76"
+      Hint: Title
+      Value: HEALTHY
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "569c7a13-1a5f-49bc-a060-6ee73483fb1c"
+      Hint: Author
+      Value: Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7fd6df77-58f6-41f7-9ce8-05a3fac17fb0"
+      Hint: Date
+      Value: 20220822T181900Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c67f711f-1085-40ea-a6e7-64f5b8524fee"
+    - ID: "9bad9f33-9e44-4b00-a989-921a6efe13b9"
+      Hint: Image
+      Value: |
+        <image mediaid="{B4156FD4-610F-4037-8976-4973C301ABDB}" alt="image" height="" width="" hspace="" vspace="" />
+    - ID: "a6512052-8af2-4bae-bd6d-929162f22cb1"
+      Hint: SubTitle
+      Value: Etiam Id Diam Vitae Lorem Dictum
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ced3ff13-ff5b-4c04-ba1a-c23b792f430c"
+      Hint: SocialTag
+      Value: |
+        {92AFF066-89A3-42F1-8406-5DED7D88B605}
+        {807C7699-8D09-4FDD-9953-BB796E30639F}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220822T191654Z
+    - ID: "f6c3d6ff-6a28-469a-b5d0-6339672244d1"
+      Hint: Details
+      Value: "You can support us by contributing a little via PayPal. Please contact TemplateMo via Live Chat or Email. If you have any question or feedback about this template, feel free to talk to us. Also, you may check other CSS templates such as multi-page, resume, video, etc."
+    - ID: "fca68ef5-b186-4bda-96c9-f2408b40a392"
+      Hint: BlogTag
+      Value: |
+        {E293B371-E8A2-4615-93CA-120ED5E49560}
+        {2DCDEAC0-90EE-442B-81A8-ECC7C21CE77D}

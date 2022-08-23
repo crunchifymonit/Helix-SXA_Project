@@ -1,0 +1,37 @@
+﻿---
+ID: "b675ebd2-4cc1-4093-a139-83afedd4b163"
+Parent: "8978f9d0-defa-4561-a9e6-9499a8befbf8"
+Template: "8978f9d0-defa-4561-a9e6-9499a8befbf8"
+Path: /sitecore/templates/Feature/StandBlog/Blog/BlogFolder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {6C1999C1-20FD-4896-BEB4-4BB8A1084AF0}
+    {8978F9D0-DEFA-4561-A9E6-9499A8BEFBF8}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220822T180939Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46a993eb-ab72-4207-9dde-95acbfe5ab5d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220822T181013Z

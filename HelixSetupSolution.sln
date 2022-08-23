@@ -54,6 +54,29 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feature.Blog", "src\Feature
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feature.Hero", "src\Feature\Hero\code\Feature.Hero.csproj", "{B06F814A-4C40-4DE0-98CA-144CEDAF06C5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StandBlog", "StandBlog", "{2C6FA71D-709D-4322-B796-F2FBE650253C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Views", "Views", "{DE036FB0-B83F-43C7-B8DD-4B1A8B5529D6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\inetpub\wwwroot\sitecoretestsc.dev.local\StandBlog\Web.config = ..\..\..\..\..\inetpub\wwwroot\sitecoretestsc.dev.local\StandBlog\Web.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Carousel", "Carousel", "{9BE17BFC-5EFE-4E27-B4D9-2E25D5A5A0A4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\inetpub\wwwroot\sitecoretestsc.dev.local\StandBlog\Views\Carousel\Carousel.cshtml = ..\..\..\..\..\inetpub\wwwroot\sitecoretestsc.dev.local\StandBlog\Views\Carousel\Carousel.cshtml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkList", "LinkList", "{02FFC013-64BC-4ACE-A42A-5735DFF5A708}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\inetpub\wwwroot\sitecoretestsc.dev.local\StandBlog\Views\LinkList\Link List.cshtml = ..\..\..\..\..\inetpub\wwwroot\sitecoretestsc.dev.local\StandBlog\Views\LinkList\Link List.cshtml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Navigation", "Navigation", "{CDA54EBB-2AD9-45F1-BC02-14ECF6B0C6C6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\inetpub\wwwroot\sitecoretestsc.dev.local\StandBlog\Views\Navigation\Navigation.cshtml = ..\..\..\..\..\inetpub\wwwroot\sitecoretestsc.dev.local\StandBlog\Views\Navigation\Navigation.cshtml
+		..\..\..\..\..\inetpub\wwwroot\sitecoretestsc.dev.local\StandBlog\Views\Navigation\NavigationLevel.cshtml = ..\..\..\..\..\inetpub\wwwroot\sitecoretestsc.dev.local\StandBlog\Views\Navigation\NavigationLevel.cshtml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,6 +119,11 @@ Global
 		{31D6888A-DD3A-4760-AE0A-52C5661A7340} = {5E80DF64-CBF8-4D60-B36B-053BF5D520BD}
 		{697F0EFA-F6DE-4199-A9E2-3A650F890E82} = {185DF3B5-5A27-46A9-BB2D-67E982670E6E}
 		{B06F814A-4C40-4DE0-98CA-144CEDAF06C5} = {31D6888A-DD3A-4760-AE0A-52C5661A7340}
+		{2C6FA71D-709D-4322-B796-F2FBE650253C} = {F16D3979-2A71-4C1C-AE56-301C80DF3CD0}
+		{DE036FB0-B83F-43C7-B8DD-4B1A8B5529D6} = {2C6FA71D-709D-4322-B796-F2FBE650253C}
+		{9BE17BFC-5EFE-4E27-B4D9-2E25D5A5A0A4} = {DE036FB0-B83F-43C7-B8DD-4B1A8B5529D6}
+		{02FFC013-64BC-4ACE-A42A-5735DFF5A708} = {DE036FB0-B83F-43C7-B8DD-4B1A8B5529D6}
+		{CDA54EBB-2AD9-45F1-BC02-14ECF6B0C6C6} = {DE036FB0-B83F-43C7-B8DD-4B1A8B5529D6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5FDE6175-1207-4846-BD50-DDEF418FC7F4}

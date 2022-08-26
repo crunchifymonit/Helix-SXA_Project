@@ -1,0 +1,26 @@
+﻿---
+ID: "79a1b642-4b79-4516-aead-e07c3ea09457"
+Parent: "be291a16-5b2c-4e08-bb7a-dd10eeb5a0a4"
+Template: "4b4090b4-c570-4395-ad50-791a9de263aa"
+Path: /sitecore/content/StandBlog/StandBlog/Data/Blog Category Folder/HTML5 CSS3 Templates
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220824T065337Z
+    - ID: "48899876-cdf8-44ca-8a97-6f931a9f8ba9"
+      Hint: CategoryName
+      Value: HTML5 / CSS3 Templates
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bf1651e4-15e1-4cb9-a0fe-0b8368784a60"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220824T065343Z

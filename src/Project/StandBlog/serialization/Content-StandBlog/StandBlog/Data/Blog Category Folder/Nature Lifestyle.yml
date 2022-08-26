@@ -1,0 +1,26 @@
+﻿---
+ID: "d77c1cdf-e549-4021-a0fd-f1a454f026e4"
+Parent: "be291a16-5b2c-4e08-bb7a-dd10eeb5a0a4"
+Template: "4b4090b4-c570-4395-ad50-791a9de263aa"
+Path: /sitecore/content/StandBlog/StandBlog/Data/Blog Category Folder/Nature Lifestyle
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220824T065143Z
+    - ID: "48899876-cdf8-44ca-8a97-6f931a9f8ba9"
+      Hint: CategoryName
+      Value: Nature Lifestyle
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91a377f2-7813-4e8a-84d5-1d8e7054fc66"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220824T065143Z

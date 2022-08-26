@@ -25,12 +25,15 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
+    - ID: "5eda0410-7957-4724-a11f-fe2c6efd05a2"
+      Hint: Category
+      Value: "{D5A31E4D-99B6-43AF-AA0C-2C69F6C1F6D8}"
     - ID: "7fd6df77-58f6-41f7-9ce8-05a3fac17fb0"
       Hint: Date
       Value: 20220822T182100Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e12a3606-16ad-4b8c-a379-7d311b10995f"
+      Value: "25e52b9f-2e01-454d-b5bc-8e12544e65ca"
     - ID: "9bad9f33-9e44-4b00-a989-921a6efe13b9"
       Hint: Image
       Value: |
@@ -49,7 +52,7 @@ Languages:
         {C0057192-AF87-416F-BCFE-CCFA187BB584}
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220822T191710Z
+      Value: 20220824T070230Z
     - ID: "f6c3d6ff-6a28-469a-b5d0-6339672244d1"
       Hint: Details
       Value: Nullam at quam ut lacus aliquam tempor vel sed ipsum. Donec pellentesque tincidunt imperdiet. Mauris sit amet justo vulputate, cursus massa congue, vestibulum odio. Aenean elit nunc, gravida in erat sit amet, feugiat viverra leo. Phasellus interdum, diam commodo egestas rhoncus, turpis nisi consectetur nibh, in vehicula eros orci vel neque.

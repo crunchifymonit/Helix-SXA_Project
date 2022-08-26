@@ -25,12 +25,15 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
+    - ID: "5eda0410-7957-4724-a11f-fe2c6efd05a2"
+      Hint: Category
+      Value: "{E773F737-0CAB-4BAB-BEA8-C2E22E677869}"
     - ID: "7fd6df77-58f6-41f7-9ce8-05a3fac17fb0"
       Hint: Date
       Value: 20220822T181700Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "62487a59-93a2-4582-be5a-d5db55809a5e"
+      Value: "e8edeb7e-c2bc-4db7-925e-ad6182ac8795"
     - ID: "9bad9f33-9e44-4b00-a989-921a6efe13b9"
       Hint: Image
       Value: |
@@ -49,7 +52,7 @@ Languages:
         {807C7699-8D09-4FDD-9953-BB796E30639F}
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220822T191634Z
+      Value: 20220824T070219Z
     - ID: "f6c3d6ff-6a28-469a-b5d0-6339672244d1"
       Hint: Details
       Value: "Stand Blog is a free HTML CSS template for your CMS theme. You can easily adapt or customize it for any kind of CMS or website builder. You are allowed to use it for your business. You are NOT allowed to re-distribute the template ZIP file on any template collection site for the download purpose. Contact TemplateMo for more info. Thank you."

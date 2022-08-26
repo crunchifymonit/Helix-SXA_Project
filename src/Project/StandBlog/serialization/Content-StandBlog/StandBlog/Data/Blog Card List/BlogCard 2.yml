@@ -25,12 +25,15 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
+    - ID: "5eda0410-7957-4724-a11f-fe2c6efd05a2"
+      Hint: Category
+      Value: "{79A1B642-4B79-4516-AEAD-E07C3EA09457}"
     - ID: "7fd6df77-58f6-41f7-9ce8-05a3fac17fb0"
       Hint: Date
       Value: 20220822T181900Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c67f711f-1085-40ea-a6e7-64f5b8524fee"
+      Value: "799adc62-f345-461f-bb5c-e5e89cb1ecf8"
     - ID: "9bad9f33-9e44-4b00-a989-921a6efe13b9"
       Hint: Image
       Value: |
@@ -49,7 +52,7 @@ Languages:
         {807C7699-8D09-4FDD-9953-BB796E30639F}
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220822T191654Z
+      Value: 20220824T070225Z
     - ID: "f6c3d6ff-6a28-469a-b5d0-6339672244d1"
       Hint: Details
       Value: "You can support us by contributing a little via PayPal. Please contact TemplateMo via Live Chat or Email. If you have any question or feedback about this template, feel free to talk to us. Also, you may check other CSS templates such as multi-page, resume, video, etc."
